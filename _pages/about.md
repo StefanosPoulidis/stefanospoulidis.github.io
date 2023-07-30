@@ -12,4 +12,4 @@ I am Stefanos Poulidis, a PhD student in Decision Sciences at INSEAD. I’m inte
 
 Previously, I spent two years as an entrepreneur, co-founding Soccerhub and Boxbeat. I received a B.S. and M.S. in Electrical Engineering and Computer Science at National Technical University of Athens. You can find my full CV here.
 
-Please reach out to <a href=mailto:stefanos.poulidis@insead.edu!></a>
+Please reach out to <a href=mailto:stefanos.poulidis@insead.edu!>stefanos.poulidis@insead.edu</a>

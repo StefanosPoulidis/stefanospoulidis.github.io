@@ -10,6 +10,6 @@ redirect_from:
 
 I am Stefanos Poulidis, a PhD student in Decision Sciences at INSEAD. I’m interested in experimentation, data-driven optimization, and machine learning interventions.  Specifically, I look into challenges relating to policy optimization, personalized policies, and AI tips in healthcare, marketing and revenue management settings.
 
-Previously, I spent two years as an entrepreneur, co-founding Soccerhub and Boxbeat. I received a B.S. and M.S. in Electrical Engineering and Computer Science at National Technical University of Athens. You can find my full CV here.
+Previously, I spent two years as an entrepreneur, co-founding Soccerhub and Boxbeat. I received a B.S. and M.S. in Electrical Engineering and Computer Science at National Technical University of Athens. You can find my full CV [here](/files/Stefanos Poulidis CV.pdf).
 
 Please reach out to <a href=mailto:<nowiki>stefanos.poulidis@insead.edu?subject="HTML link">stefanos.poulidis@insead.edu</a>

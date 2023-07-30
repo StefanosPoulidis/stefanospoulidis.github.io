@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-[My CV](/files/Stefanos Poulidis CV.pdf).
+[CV](/files/Stefanos Poulidis CV.pdf)
 

@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stefanos Poulidis"
+  name             : #"Stefanos Poulidis"
   avatar           : "stefanos.jpeg"
-  bio              : "PhD student at Decision Sciences at INSEAD"
+  bio              :
   location         : 
-  employer         : "INSEAD"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/StefanosPoulidis"
+  github           : #"https://github.com/StefanosPoulidis"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

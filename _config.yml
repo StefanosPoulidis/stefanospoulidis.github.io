@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Stefanos Poulidis"
 title_separator          : "-"
-name                     : &name "Stefanos Poulidis"
+name                     : #&name "Stefanos Poulidis"
 description              : &description "PhD student, Decision Sciences, INSEAD"
 url                      : https://stefanospoulidis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -31,21 +31,21 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields          : #['name', 'email', 'url', 'message']
+  branch                 : #"gh-pages" # "master", "gh-pages"
+  commitMessage          : #"New comment."
+  filename               : #comment-{@timestamp}
+  format                 : #"yml"
+  moderation             : #true
+  path                   : #"_data/comments/{options.slug}"
+  requiredFields         : #['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : #"md5"
   generatedFields:
     date:
-      type               : "date"
+      type               : #"date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : #"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 

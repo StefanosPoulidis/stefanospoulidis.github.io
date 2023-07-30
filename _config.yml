@@ -83,10 +83,10 @@ author:
   name             : "Stefanos Poulidis"
   avatar           : "profile.png"
   bio              : "PhD student at Decision Sciences at INSEAD"
-  location         : ""
+  location         : 
   employer         : "INSEAD"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

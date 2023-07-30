@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+files/Stefanos Poulidis CV.pdf

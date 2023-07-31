@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### **Working papers**
+###**Working papers**
 
 **Optimal Experimentation for Learning Personalized Policies Across Locations**
 G. Hall, S. Poulidis, S. I. Zoumpoulis

@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Optimal Experimentation for Learning Personalized Policies Across Locations**
+G. Hall, S. Poulidis, S. I. Zoumpoulis
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Just a Few Bits: Improving Human Decision-Making with Min- imal Algorithmic Tips**
+H. Bastani, O. Bastani, S. Poulidis

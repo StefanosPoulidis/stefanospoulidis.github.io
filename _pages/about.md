@@ -17,3 +17,7 @@ Previously, I spent two years as an entrepreneur, co-founding Soccerhub, and hel
 I received a B.S. and M.Eng. in Electrical Engineering and Computer Science at the National Technical University of Athens. You can find my full CV [here](/files/Stefanos_Poulidis_CV.pdf).
 
 Please reach out to stefanos.poulidis[at]insead.edu.
+
+
+**Research interests**
+experimentation, policy optimization, transfer and multi-task learning, AI-assisted decision-making

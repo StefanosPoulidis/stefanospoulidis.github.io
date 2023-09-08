@@ -20,4 +20,5 @@ Please reach out to stefanos.poulidis[at]insead.edu.
 
 
 **Research interests**
+
 experimentation, policy optimization, transfer and multi-task learning, AI-assisted decision-making

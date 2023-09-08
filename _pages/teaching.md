@@ -5,8 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**MBA courses**
+
 **Data Science for Business**, INSEAD 2023   
 MBA elective on advanced ML/analytics techniques and business applications
+
+
+**Undergraduate & Master's courses**
 
 **Programming Techniques**, School of Electrical and Computer Engineering, National Technical University of Athens 2015,2016,2017  
 Undergraduate course on data structures and object-oriented programming.

@@ -11,5 +11,5 @@ author_profile: true
 G. Hall, S. Poulidis, S. I. Zoumpoulis
 
 
-**Just a Few Bits: Improving Human Decision-Making with Min- imal Algorithmic Tips**  
-H. Bastani, O. Bastani, S. Poulidis
+**Just a Few Bits: Improving Human Decision-Making with Minimal Algorithmic Tips**  
+S. Poulidis, H. Ge, H. Bastani, O. Bastani

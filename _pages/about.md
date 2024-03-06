@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Stefanos, now in the third year of my PhD journey in Decision Sciences at INSEAD. I am incredibly grateful for the guidance of my advisors, Georgina Hall and Spyros Zoumpoulis, as well as for the continuous mentoring from Hamsa Bastani.
+Hi! I am Stefanos, now in the third year of my PhD journey in Decision Sciences at INSEAD. I am incredibly grateful for the continuous mentoring from Hamsa Bastani and my advisors, Georgina Hall and Spyros Zoumpoulis.
 
 My research interests span experimentation, policy optimization, transfer and multi-task learning, and algorithmic advice.  I am particularly interested in understanding and developing the data-generation processes necessary for crafting more effective policies. Additionally, I study AI-assisted decision-making and how we should design and provide algorithmic advice to people, aiming to improve human decision-making.
 

@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Stefanos, now in the third year of my PhD journey in Decision Sciences at INSEAD. I am incredibly grateful for the continuous mentoring from Hamsa Bastani and my advisor Spyros Zoumpoulis.
 
-My research interests span experimentation, policy optimization, transfer and multi-task learning, and algorithmic advice.  I am particularly interested in understanding and developing the data-generation processes necessary for crafting more effective policies. Additionally, I study AI-assisted decision-making and how we should design and provide algorithmic advice to people, aiming to improve human decision-making.
+My research interests span experimentation, policy learning, algorithmic advice, and human-centered AI. I focus on developing data-generation processes to formulate more effective policies. Additionally, I study AI-assisted decision-making, emphasizing on algorithmic advice that augments human capabilities without negative externalities, such as impeding human learning.
 
 Before turning to research, I ventured into entrepreneurship, for which I was recognized in the Forbes 30under30 list for Greece. I have also contributed to women’s economic development through my public policy and education roles at MExoxo.
 

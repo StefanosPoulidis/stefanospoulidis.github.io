@@ -22,4 +22,4 @@ Please reach out to stefanos.poulidis[at]insead.edu.
 **Research interests**
 
 
-experimentation, policy optimization, transfer and multi-task learning, algorithmic advice
+experimentation, policy learning, algorithmic advice, human-centered AI

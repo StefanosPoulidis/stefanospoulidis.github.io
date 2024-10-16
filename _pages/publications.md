@@ -11,5 +11,9 @@ author_profile: true
 G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis
 
 
-**Just a Few Bits: Improving Human Decision-Making with Minimal Algorithmic Intervention**  
+**Action vs. Attention Signals in Algorithmic Advice**  
 <u>S. Poulidis</u>, H. Ge, H. Bastani, O. Bastani
+
+
+**Constraining Algorithms to Improve Learning**  
+<u>S. Poulidis</u>, H. Bastani, O. Bastani

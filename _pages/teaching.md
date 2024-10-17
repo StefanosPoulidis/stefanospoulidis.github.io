@@ -7,7 +7,10 @@ author_profile: true
 
 **MBA courses**
 
-**Data Science for Business**, INSEAD 2023   
+**Processes & Operations Management**, INSEAD, 2024   
+MBA core course on processes and operations management
+
+**Data Science for Business**, INSEAD, 2023   
 MBA elective on advanced ML/analytics techniques and business applications
 
 

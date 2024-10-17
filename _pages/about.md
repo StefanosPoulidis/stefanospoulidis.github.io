@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD candidate in Decision Sciences at INSEAD. I am immensely fortunate to be mentored and advised by Professors [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
+I am a fourth-year PhD candidate in Decision Sciences at INSEAD. I am immensely fortunate to be mentored and advised by Professors [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
 
 My research centers on experimentation, policy learning, algorithmic advice, and human-centered AI. My work so far focuses on developing data-generation processes and novel algorithms to learn more effective policies, particularly accounting for human-AI interactions. I explore AI-assisted decision-making, with an emphasis on algorithmic advice that enhances human capabilities without hindering human learning.
 

@@ -16,4 +16,4 @@ G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis
 
 
 **Constraining Algorithms to Improve Learning**  
-<u>S. Poulidis</u>, H. Bastani, O. Bastani
+H. Bastani, O. Bastani, <u>S. Poulidis</u>

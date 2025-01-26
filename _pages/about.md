@@ -14,7 +14,7 @@ My research explores how humans and AI work together, with a particular focus on
 
 Before my academic pursuits, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo, a non-profit organization supported by the Clinton Foundation.
 
-I received a B.S. and M.Eng. in Electrical Engineering and Computer Science from the National Technical University of Athens. My full CV is available [here](/files/Stefanos_Poulidis_CV.pdf).
+I received a B.S. and M.Eng. in Electrical Engineering and Computer Science from the National Technical University of Athens. My full CV is available [here](Stefanos_Poulidis_CV.pdf).
 
 Please reach out to stefanos.poulidis[at]insead.edu.
 

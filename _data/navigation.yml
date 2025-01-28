@@ -1,14 +1,11 @@
-# main links links
+# main links
 main:
   - title: "Research"
-    url: /research/
-
+    url: "/research/"
   - title: "Teaching"
-    url: /teaching/    
-    
-- name: "CV"
-  url: /files/Stefanos_Poulidis_CV.pdf
-  external: true
-
-- name: "Research"
-  url: "#research"
+    url: "/teaching/"
+  - title: "CV"
+    url: "/files/Stefanos_Poulidis_CV.pdf"
+    external: true
+  - title: "Research"
+    url: "#research"

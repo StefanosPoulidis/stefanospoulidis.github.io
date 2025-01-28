@@ -39,3 +39,40 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+
+#research {
+    margin: 2em 0;
+    padding: 2em;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+#research h2 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+#research .research-item {
+    margin-bottom: 1.5em;
+    padding: 1em;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#research .research-item h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 0.5em;
+}
+
+#research .research-item p {
+    color: #666;
+    line-height: 1.6;
+}

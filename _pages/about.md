@@ -28,12 +28,13 @@ human-AI collaboration, algorithmic advice, behavioral operations, policy learni
 
 ## Research
 
-### Optimizing Algorithmic Interventions
-An exploration of how algorithms can aid experiential learning environments.
+**Working papers**
 
-### AI in Chess Training
-Developing AI-powered tools to enhance chess learning and performance.
+**Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**  
+<u>S. Poulidis</u>, H. Ge, H. Bastani, O. Bastani
 
-### Human-in-the-Loop Machine Learning
-Investigating how constrained algorithmic advice improves human decision-making and learning.
+**Constraining Algorithms to Improve Learning**  
+<u>S. Poulidis</u>, H. Bastani, O. Bastani
 
+**Optimal Experimentation for Learning Personalized Policies Across Locations**   
+G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis

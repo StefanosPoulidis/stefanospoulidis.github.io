@@ -75,3 +75,25 @@
 .btn {
   margin-top: 1em;
 }
+
+
+
+.profile-photo {
+    max-width: 200px; /* Adjust the size as needed */
+    border-radius: 50%; /* Circular shape */
+    display: block;
+    margin: 0 auto 10px; /* Centers the image and adds spacing below */
+}
+
+.contact-email {
+    text-align: center;
+    font-size: 1.1em;
+    margin-top: 10px;
+    color: #333;
+}
+
+.contact-email a {
+    text-decoration: none;
+    color: #007bff; /* Adjust the color of the email link */
+}
+

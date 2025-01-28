@@ -25,16 +25,28 @@ Please reach out to stefanos.poulidis[at]insead.edu.
 human-AI collaboration, algorithmic advice, behavioral operations, policy learning
 
 
-
 ## Research
 
-**Working papers**
+### **Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**
+![Chess Collaboration](assets/images/chess_collaboration.jpg)
 
-**Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**  
-<u>S. Poulidis</u>, H. Ge, H. Bastani, O. Bastani
+- **Authors:** S. Poulidis, H. Ge, H. Bastani, O. Bastani
+- **Status:** Working Paper
+- **Abstract:** Analyzing the effects of action versus attention signals in human-AI collaboration within chess games.
+- [Read More](#) | [Download PDF](#)
 
-**Constraining Algorithms to Improve Learning**  
-<u>S. Poulidis</u>, H. Bastani, O. Bastani
+### **Constraining Algorithms to Improve Learning**
+![Improving Learning](assets/images/improving_learning.jpg)
 
-**Optimal Experimentation for Learning Personalized Policies Across Locations**   
-G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis
+- **Authors:** S. Poulidis, H. Bastani, O. Bastani
+- **Status:** Working Paper
+- **Abstract:** Investigating how constraining algorithms can enhance human learning in various domains.
+- [Read More](#) | [Download PDF](#)
+
+### **Optimal Experimentation for Learning Personalized Policies Across Locations**
+![Personalized Policies](assets/images/personalized_policies.jpg)
+
+- **Authors:** G. Hall, S. Poulidis, S. I. Zoumpoulis
+- **Status:** Working Paper
+- **Abstract:** Exploring strategies for optimal experimentation to learn personalized policies across different locations.
+- [Read More](#) | [Download PDF](#)

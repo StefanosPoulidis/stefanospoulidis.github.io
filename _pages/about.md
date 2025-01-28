@@ -24,73 +24,16 @@ Please reach out to stefanos.poulidis[at]insead.edu.
 
 human-AI collaboration, algorithmic advice, behavioral operations, policy learning
 
+
 ## Research
 
-<section id="research" class="home-section wg-portfolio">
-  <div class="container">
-    <div class="row">
-      <div class="section-heading col-12 col-lg-2 mb-3 d-flex flex-column align-items-center align-items-lg-start">
-        <h1 class="mb-0">Research</h1>
-      </div>
-      <div class="col-12 col-lg-10">
-        <!-- Research Item 1 -->
-        <div class="project-item">
-          <div class="row align-items-center">
-            <div class="col-12 col-md-6">
-              <h3>Action vs. Attention Signals for Human-AI Collaboration</h3>
-              <p><strong>Authors:</strong> S. Poulidis, H. Ge, H. Bastani, O. Bastani</p>
-              <p><strong>Status:</strong> Working Paper</p>
-              <p>Exploring the effects of action versus attention signals in decision-making and performance within human-AI collaboration environments like chess.</p>
-              <div>
-                <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Working Paper</a>
-              </div>
-            </div>
-            <div class="col-12 col-md-6">
-              <img src="/assets/images/research1.jpg" alt="Action vs. Attention Signals" class="img-fluid">
-            </div>
-          </div>
-        </div>
+**Working papers**
 
-        <hr>
+**Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**  
+<u>S. Poulidis</u>, H. Ge, H. Bastani, O. Bastani
 
-        <!-- Research Item 2 -->
-        <div class="project-item">
-          <div class="row align-items-center">
-            <div class="col-12 col-md-6">
-              <h3>Constraining Algorithms to Improve Learning</h3>
-              <p><strong>Authors:</strong> S. Poulidis, H. Bastani, O. Bastani</p>
-              <p><strong>Status:</strong> Working Paper</p>
-              <p>Investigating how constraining algorithms can enhance human learning outcomes and behavior in decision-making contexts.</p>
-              <div>
-                <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Working Paper</a>
-              </div>
-            </div>
-            <div class="col-12 col-md-6">
-              <img src="/assets/images/research2.jpg" alt="Constraining Algorithms" class="img-fluid">
-            </div>
-          </div>
-        </div>
+**Constraining Algorithms to Improve Learning**  
+<u>S. Poulidis</u>, H. Bastani, O. Bastani
 
-        <hr>
-
-        <!-- Research Item 3 -->
-        <div class="project-item">
-          <div class="row align-items-center">
-            <div class="col-12 col-md-6">
-              <h3>Optimal Experimentation for Learning Personalized Policies Across Locations</h3>
-              <p><strong>Authors:</strong> G. Hall, S. Poulidis, S. I. Zoumpoulis</p>
-              <p><strong>Status:</strong> Working Paper</p>
-              <p>Studying strategies for optimal experimentation to learn personalized policies across diverse locations.</p>
-              <div>
-                <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Working Paper</a>
-              </div>
-            </div>
-            <div class="col-12 col-md-6">
-              <img src="/assets/images/research3.jpg" alt="Optimal Experimentation" class="img-fluid">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+**Optimal Experimentation for Learning Personalized Policies Across Locations**   
+G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis

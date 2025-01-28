@@ -37,8 +37,3 @@ human-AI collaboration, algorithmic advice, behavioral operations, policy learni
 
 **Optimal Experimentation for Learning Personalized Policies Across Locations**   
 G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis
-
-- **Authors:** G. Hall, S. Poulidis, S. I. Zoumpoulis
-- **Status:** Working Paper
-- **Abstract:** Exploring strategies for optimal experimentation to learn personalized policies across different locations.
-- [Read More](#) | [Download PDF](#)

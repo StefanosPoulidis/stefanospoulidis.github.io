@@ -15,7 +15,10 @@
 
     
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" class="profile-photo">
+      <p class="contact-email">
+        <a href="mailto:stefanos.poulidis@insead.edu">stefanos.poulidis@insead.edu</a>
+      </p>
     {% endif %}
   </div>
 

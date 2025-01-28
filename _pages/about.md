@@ -27,24 +27,16 @@ human-AI collaboration, algorithmic advice, behavioral operations, policy learni
 
 ## Research
 
-### **Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**
-![Chess Collaboration](assets/images/chess_collaboration.jpg)
+**Working papers**
 
-- **Authors:** S. Poulidis, H. Ge, H. Bastani, O. Bastani
-- **Status:** Working Paper
-- **Abstract:** Analyzing the effects of action versus attention signals in human-AI collaboration within chess games.
-- [Read More](#) | [Download PDF](#)
+**Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**  
+<u>S. Poulidis</u>, H. Ge, H. Bastani, O. Bastani
 
-### **Constraining Algorithms to Improve Learning**
-![Improving Learning](assets/images/improving_learning.jpg)
+**Constraining Algorithms to Improve Learning**  
+<u>S. Poulidis</u>, H. Bastani, O. Bastani
 
-- **Authors:** S. Poulidis, H. Bastani, O. Bastani
-- **Status:** Working Paper
-- **Abstract:** Investigating how constraining algorithms can enhance human learning in various domains.
-- [Read More](#) | [Download PDF](#)
-
-### **Optimal Experimentation for Learning Personalized Policies Across Locations**
-![Personalized Policies](assets/images/personalized_policies.jpg)
+**Optimal Experimentation for Learning Personalized Policies Across Locations**   
+G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis
 
 - **Authors:** G. Hall, S. Poulidis, S. I. Zoumpoulis
 - **Status:** Working Paper

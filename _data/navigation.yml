@@ -6,3 +6,6 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+- name: "CV"
+  url: /files/Stefanos_Poulidis_CV.pdf
+  external: true

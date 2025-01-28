@@ -9,6 +9,7 @@
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}" class="profile-photo">
+      <p class="contact-label">Contact:</p>
       <p class="contact-email">
         <a href="mailto:stefanos.poulidis@insead.edu">stefanos.poulidis@insead.edu</a>
       </p>
@@ -16,6 +17,7 @@
     
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" class="profile-photo">
+      <p class="contact-label">Contact:</p>
       <p class="contact-email">
         <a href="mailto:stefanos.poulidis@insead.edu">stefanos.poulidis@insead.edu</a>
       </p>

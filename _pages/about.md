@@ -16,9 +16,6 @@ Before my academic pursuits, I embarked on an entrepreneurial journey, earning r
 
 I received a B.S. and M.Eng. in Electrical Engineering and Computer Science from the National Technical University of Athens. My full CV is available [here](Stefanos_Poulidis_CV.pdf).
 
-Please reach out to stefanos.poulidis[at]insead.edu.
-
-
 **Research interests**
 
 

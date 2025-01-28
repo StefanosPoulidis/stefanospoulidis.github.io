@@ -23,3 +23,17 @@ Please reach out to stefanos.poulidis[at]insead.edu.
 
 
 human-AI collaboration, algorithmic advice, behavioral operations, policy learning
+
+
+
+## Research
+
+### Optimizing Algorithmic Interventions
+An exploration of how algorithms can aid experiential learning environments.
+
+### AI in Chess Training
+Developing AI-powered tools to enhance chess learning and performance.
+
+### Human-in-the-Loop Machine Learning
+Investigating how constrained algorithmic advice improves human decision-making and learning.
+

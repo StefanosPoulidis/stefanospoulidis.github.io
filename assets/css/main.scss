@@ -42,41 +42,36 @@
 
 
 #research {
-    margin: 2em 0;
-    padding: 2em;
-    background-color: #f8f9fa; /* Light gray background */
-    border-radius: 8px;
+  margin: 2em 0;
+  padding: 2em 0;
 }
 
-#research h2, #research h3 {
-    color: #2c3e50; /* Dark text color */
+#research h1 {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
 }
 
-#research img {
-    max-width: 100%;
-    border-radius: 8px;
-    margin-bottom: 1em;
+.project-item {
+  margin-bottom: 2em;
 }
 
-#research .research-item {
-    padding: 1.5em;
-    margin-bottom: 1.5em;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    background-color: #ffffff; /* White card background */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+.project-item h3 {
+  font-size: 1.8rem;
+  font-weight: bold;
 }
 
-#research .research-item a {
-    color: #3498db; /* Blue links */
-    text-decoration: none;
+.project-item img {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-#research .research-item a:hover {
-    text-decoration: underline;
+.project-item p {
+  color: #555;
+  line-height: 1.6;
 }
 
-#research .research-item .awards {
-    font-size: 0.9em;
-    color: #e67e22; /* Orange for awards */
+.btn {
+  margin-top: 1em;
 }

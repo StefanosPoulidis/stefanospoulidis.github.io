@@ -76,31 +76,30 @@
   margin-top: 1em;
 }
 
-.contact-label {
-    text-align: center;
-    font-size: 1.1em;
-    font-weight: bold;
-    margin: 0;
-    color: #333;
-}
-
 
 .profile-photo {
-    max-width: 200px; /* Adjust the size as needed */
+    max-width: 250px; /* Increased size */
     border-radius: 50%; /* Circular shape */
     display: block;
-    margin: 0 auto 10px; /* Centers the image and adds spacing below */
+    margin: 0 auto 20px; /* Centers photo and adds space below */
+}
+
+.contact-label {
+    text-align: center;
+    font-size: 1.2em; /* Slightly larger font */
+    font-weight: bold;
+    margin: 10px 0; /* Adds space above and below */
+    color: #333;
 }
 
 .contact-email {
     text-align: center;
     font-size: 1.1em;
-    margin-top: 10px;
     color: #333;
 }
 
 .contact-email a {
     text-decoration: none;
-    color: #007bff; /* Adjust the color of the email link */
+    color: #007bff; /* Link color */
+    font-weight: bold;
 }
-

@@ -18,7 +18,7 @@ I received a B.S. and M.S. in Electrical and Computer Engineering from the Natio
 
 **Research interests**
 
-behavioral \& data-driven operations management, human-AI collaboration, policy learning, service operations
+behavioral & data-driven operations management, human-AI collaboration, policy learning, service operations
 
 
 ## Research

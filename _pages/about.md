@@ -14,12 +14,11 @@ My research explores how humans and AI work together, with a particular focus on
 
 Before my academic pursuits, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo.
 
-I received a B.S. and M.Eng. in Electrical Engineering and Computer Science from the National Technical University of Athens. My full CV is available [here](Stefanos_Poulidis_CV.pdf).
+I received a B.S. and M.S. in Electrical and Computer Engineering from the National Technical University of Athens. My full CV is available [here](Stefanos_Poulidis_CV.pdf).
 
 **Research interests**
 
-
-human-AI collaboration, algorithmic advice, behavioral operations, policy learning
+behavioral \& data-driven operations management, human-AI collaboration, policy learning, service operations
 
 
 ## Research

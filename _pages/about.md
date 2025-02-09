@@ -23,13 +23,11 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
 
 ## Research
 
-### Working Papers
-
 #### **Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**  
-<u>S. Poulidis</u>, H. Ge, H. Bastani, O. Bastani  
+<small><u>S. Poulidis</u>, H. Ge, H. Bastani, O. Bastani</small>  
 
 <button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button> 
-<a href="https://your-paper-link.com" target="_blank" class="pub-btn">Full Paper</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584" target="_blank" class="pub-btn">Working Paper</a>
 
 <div id="abstract1" class="pub-abstract">
   <p>This paper investigates how action and attention signals impact human decision-making in AI-assisted environments using chess as an experimental setting.</p>
@@ -37,11 +35,10 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
 
 ---
 
-#### **Constraining Algorithms to Improve Learning**  
-<u>S. Poulidis</u>, H. Bastani, O. Bastani  
+#### **Guiding Without Crippling:Limiting AI Capabilities Improves Learning**  
+<small><u>S. Poulidis</u>, H. Bastani, O. Bastani</small>  
 
 <button onclick="toggleAbstract('abstract2')" class="pub-btn">Abstract</button> 
-<a href="https://your-paper-link.com" target="_blank" class="pub-btn">Full Paper</a>
 
 <div id="abstract2" class="pub-abstract">
   <p>We analyze how constraining algorithmic advice influences human learning and performance in experiential learning environments.</p>
@@ -50,10 +47,9 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
 ---
 
 #### **Optimal Experimentation for Learning Personalized Policies Across Locations**  
-G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis  
+<small>G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis</small>  
 
 <button onclick="toggleAbstract('abstract3')" class="pub-btn">Abstract</button> 
-<a href="https://your-paper-link.com" target="_blank" class="pub-btn">Full Paper</a>
 
 <div id="abstract3" class="pub-abstract">
   <p>This study presents an optimal experimentation framework for learning personalized decision policies across different locations.</p>

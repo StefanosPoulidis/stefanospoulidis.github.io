@@ -24,7 +24,7 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
 ## Research
 
 #### **Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**  
-<small><u>S. Poulidis</u>, H. Ge, H. Bastani, O. Bastani</small>  
+with Haosen Ge, Hamsa Bastani, and Osbert Bastani  
 
 <button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button> 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584" target="_blank" class="pub-btn">Working Paper</a>

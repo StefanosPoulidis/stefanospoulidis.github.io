@@ -34,23 +34,3 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
 </div>
 
 ---
-
-#### **Guiding Without Crippling:Limiting AI Capabilities Improves Learning**  
-<small><u>S. Poulidis</u>, H. Bastani, O. Bastani</small>  
-
-<button onclick="toggleAbstract('abstract2')" class="pub-btn">Abstract</button> 
-
-<div id="abstract2" class="pub-abstract">
-  <p>We analyze how constraining algorithmic advice influences human learning and performance in experiential learning environments.</p>
-</div>
-
----
-
-#### **Optimal Experimentation for Learning Personalized Policies Across Locations**  
-<small>G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis</small>  
-
-<button onclick="toggleAbstract('abstract3')" class="pub-btn">Abstract</button> 
-
-<div id="abstract3" class="pub-abstract">
-  <p>This study presents an optimal experimentation framework for learning personalized decision policies across different locations.</p>
-</div>

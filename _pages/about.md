@@ -23,13 +23,38 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
 
 ## Research
 
-**Working papers**
+### Working Papers
 
-**Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**  
-<u>S. Poulidis</u>, H. Ge, H. Bastani, O. Bastani
+#### **Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**  
+<u>S. Poulidis</u>, H. Ge, H. Bastani, O. Bastani  
 
-**Constraining Algorithms to Improve Learning**  
-<u>S. Poulidis</u>, H. Bastani, O. Bastani
+<button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button> 
+<a href="https://your-paper-link.com" target="_blank" class="pub-btn">Full Paper</a>
 
-**Optimal Experimentation for Learning Personalized Policies Across Locations**   
-G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis
+<div id="abstract1" class="pub-abstract">
+  <p>This paper investigates how action and attention signals impact human decision-making in AI-assisted environments using chess as an experimental setting.</p>
+</div>
+
+---
+
+#### **Constraining Algorithms to Improve Learning**  
+<u>S. Poulidis</u>, H. Bastani, O. Bastani  
+
+<button onclick="toggleAbstract('abstract2')" class="pub-btn">Abstract</button> 
+<a href="https://your-paper-link.com" target="_blank" class="pub-btn">Full Paper</a>
+
+<div id="abstract2" class="pub-abstract">
+  <p>We analyze how constraining algorithmic advice influences human learning and performance in experiential learning environments.</p>
+</div>
+
+---
+
+#### **Optimal Experimentation for Learning Personalized Policies Across Locations**  
+G. Hall, <u>S. Poulidis</u>, S. I. Zoumpoulis  
+
+<button onclick="toggleAbstract('abstract3')" class="pub-btn">Abstract</button> 
+<a href="https://your-paper-link.com" target="_blank" class="pub-btn">Full Paper</a>
+
+<div id="abstract3" class="pub-abstract">
+  <p>This study presents an optimal experimentation framework for learning personalized decision policies across different locations.</p>
+</div>

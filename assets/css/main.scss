@@ -104,6 +104,13 @@
     font-weight: bold;
 }
 
+.sidebar img {
+    display: block;
+    margin: 0 auto 20px auto; /* Centers the image */
+    width: 200px; /* Adjust size */
+    border-radius: 10px;
+}
+
 .pub-btn {
     display: inline-block;
     margin: 5px;

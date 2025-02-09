@@ -23,7 +23,7 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
 
 ## Research
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 60px;">
 
   <!-- Research Text (Left Side) -->
   <div style="flex: 2;">
@@ -40,9 +40,9 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
 
   </div>
 
-  <!-- Image (Right Side) -->
-  <div style="flex: 1; text-align: right;">
-    <img src="{{ site.baseurl }}/assets/images/FIDE_post.png" alt="FIDE Post Image" style="width: 300px; border-radius: 10px;">
+  <!-- Enlarged Image (Right Side) -->
+  <div style="flex: 1.5; text-align: right;">
+    <img src="{{ site.baseurl }}/assets/images/FIDE_post.png" alt="FIDE Post Image" style="width: 600px; border-radius: 10px;">
   </div>
 
 </div>

@@ -151,4 +151,5 @@ small {  /* Author names */
 }
 
 .pub-container .pub-content {
-    flex: 2;
+    flex-grow: 2; /* Fix: Using flex-grow instead of flex shorthand */
+}

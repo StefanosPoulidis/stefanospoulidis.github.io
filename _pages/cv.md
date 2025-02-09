@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[CV](/Stefanos_Poulidis_CV.pdf)
+[CV](Stefanos_Poulidis_CV.pdf)
 

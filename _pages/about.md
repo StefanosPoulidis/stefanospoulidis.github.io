@@ -24,7 +24,7 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
 
 <!-- Move the image to the left column -->
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/images/FIDE_post.jpg" alt="FIDE Post Image" style="width: 200px; border-radius: 10px;">
+  <img src="{{ site.baseurl }}/assets/images/FIDE_post.png" alt="FIDE Post Image" style="width: 200px; border-radius: 10px;">
 </div>
 
 #### **Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**  

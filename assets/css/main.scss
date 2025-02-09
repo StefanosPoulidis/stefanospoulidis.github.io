@@ -104,18 +104,17 @@
     font-weight: bold;
 }
 
-// Custom styles for publications buttons and abstracts
 .pub-btn {
     display: inline-block;
     margin: 5px;
-    padding: 8px 12px;
+    padding: 6px 10px;
     background-color: #007bff;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .pub-btn:hover {
@@ -131,3 +130,11 @@
     font-size: 14px;
 }
 
+h4 {  /* Titles */
+    font-size: 18px;
+    font-weight: bold;
+}
+
+small {  /* Author names */
+    font-size: 14px;
+}

@@ -103,3 +103,31 @@
     color: #007bff; /* Link color */
     font-weight: bold;
 }
+
+// Custom styles for publications buttons and abstracts
+.pub-btn {
+    display: inline-block;
+    margin: 5px;
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.pub-btn:hover {
+    background-color: #0056b3;
+}
+
+.pub-abstract {
+    display: none;
+    padding: 10px;
+    margin-top: 5px;
+    border-left: 4px solid #007bff;
+    background-color: #f8f9fa;
+    font-size: 14px;
+}
+

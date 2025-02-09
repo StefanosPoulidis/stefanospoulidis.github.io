@@ -152,17 +152,24 @@ small {  /* Author names */
     font-size: 14px;
 }
 
+
 .pub-container {
     display: flex;
-    align-items: center;
-    gap: 20px;  /* Adds space between image and text */
-}
-
-.pub-container img {
-    max-width: 250px;
-    border-radius: 10px;
+    justify-content: space-between; /* Ensures text and image are separate */
+    align-items: flex-start;
+    gap: 40px; /* Adds space between text and image */
 }
 
 .pub-container .pub-content {
-    flex-grow: 2; /* Fix: Using flex-grow instead of flex shorthand */
+    flex: 2;
+}
+
+.pub-container .pub-image {
+    flex: 1;
+    text-align: right;
+}
+
+.pub-container .pub-image img {
+    width: 300px; /* Increased image size */
+    border-radius: 10px;
 }

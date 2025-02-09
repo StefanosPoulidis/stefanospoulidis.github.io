@@ -131,10 +131,24 @@
 }
 
 h4 {  /* Titles */
-    font-size: 18px;
+    font-size: 17px;
     font-weight: bold;
 }
 
 small {  /* Author names */
     font-size: 14px;
 }
+
+.pub-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;  /* Adds space between image and text */
+}
+
+.pub-container img {
+    max-width: 250px;
+    border-radius: 10px;
+}
+
+.pub-container .pub-content {
+    flex: 2;

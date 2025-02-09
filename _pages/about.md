@@ -22,11 +22,11 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
 
 ## Research
 
-<!-- Move the image to the left column -->
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/images/FIDE_post.png" alt="FIDE Post Image" style="width: 200px; border-radius: 10px;">
-</div>
-
+<div style="position: relative;">
+  
+  <!-- Research Text (Left Side) -->
+  <div>
+  
 #### **Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess**  
 with Haosen Ge, Hamsa Bastani, and Osbert Bastani  
 
@@ -35,6 +35,15 @@ with Haosen Ge, Hamsa Bastani, and Osbert Bastani
 
 <div id="abstract1" class="pub-abstract">
   <p>Algorithmic advice increasingly supports human decision-making in high-stakes domains such as healthcare, law, and finance. While prior work has mostly studied <i>action signals</i>, which recommend specific actions, many practical implementations actually rely on <i>attention signals</i>, which highlight critical decisions without prescribing a course of action—e.g., in hospitals, attention signals may trigger upon encountering high-risk patients, while action signals may additionally suggest specific treatments for those patients. Despite their widespread use, little is known about how these signals differentially affect decision-making. We study the impact of these signals on human decision-making via an extensive behavioral experiment in the context of chess, a challenging and well-studied decision-making problem where experts frequently rely on algorithmic advice. We find that both signal types can effectively improve decision-making, with attention signals achieving at least 40% of the benefits of action signals. More interestingly, action and attention signals improve performance through very different mechanisms. Action signals improve decision-making only in the specific states where they are provided; however, they can also guide decision-makers into ''uncharted waters,'' where they are unsure how to make effective decisions, thereby degrading performance. In contrast, attention signals—while requiring human effort to be effective—improve decision-making quality not only in states where they are given, but also have positive spillovers to subsequent states. Our findings have significant implications for the deployment of algorithmic signals to improve decision-making in practice.</p>
+</div>
+
+  </div>
+
+  <!-- Image (Right Side, Absolutely Positioned) -->
+  <div class="pub-image">
+    <img src="{{ site.baseurl }}/assets/images/FIDE_post.png" alt="FIDE Post Image">
+  </div>
+
 </div>
 
 ---

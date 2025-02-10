@@ -43,6 +43,10 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
         <img src="{{ site.baseurl }}/assets/images/FIDE_post.png" alt="FIDE post">
         <p class="swiper-caption">FIDE (the International Chess Federation) communicated our study!</p>
       </div>
+      <div class="swiper-slide">
+        <img src="{{ site.baseurl }}/assets/images/chess_kids.jpg" alt="Chesskids">
+        <p class="swiper-caption">Presenting our chess-training platform to chess academies.</p>
+      </div>
     </div>
     <!-- Pagination & Navigation Buttons -->
     <div class="swiper-pagination"></div>

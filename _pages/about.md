@@ -48,12 +48,12 @@ behavioral & data-driven operations management, human-AI collaboration, policy l
         <p class="swiper-caption">Presenting our chess-training platform to chess academies</p>
       </div>
       <div class="swiper-slide">
-        <img src="{{ site.baseurl }}/assets/images/chessed.png" alt="Chessineducation">
-        <p class="swiper-caption">Our chess-training study featured in the Chess-in-Education newsletter</p>
+        <img src="{{ site.baseurl }}/assets/images/chess_academies_3.jpeg" alt="Chess Academies Visit">
+        <p class="swiper-caption">Wrapping up the study with chess-themed stickers!</p>
       </div>
       <div class="swiper-slide">
-        <img src="{{ site.baseurl }}/assets/images/chess_academies_3.jpg" alt="Chess Academies Visit">
-        <p class="swiper-caption">Wrapping up the study with chess-themed stickers!</p>
+        <img src="{{ site.baseurl }}/assets/images/chessed.png" alt="Chessineducation">
+        <p class="swiper-caption">Our chess-training study featured in the Chess-in-Education newsletter</p>
       </div>
     </div>
     <!-- Pagination & Navigation Buttons -->

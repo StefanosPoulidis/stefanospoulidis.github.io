@@ -14,7 +14,8 @@ My research explores human-AI collaboration; specifically, I focus on how algori
 
 Before my academic pursuits, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo.
 
-I received a B.S. and M.S. in Electrical and Computer Engineering from the National Technical University of Athens. My full CV is available [here](stefanospoulidis.github.io/files/Stefanos_Poulidis_CV.pdf).
+I received a B.S. and M.S. in Electrical and Computer Engineering from the National Technical University of Athens. My full CV is available [here](/files/Stefanos_Poulidis_CV.pdf).
+
 
 **Research interests**
 

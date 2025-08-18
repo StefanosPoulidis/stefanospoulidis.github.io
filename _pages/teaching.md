@@ -15,8 +15,8 @@ author_profile: true
 
 ## Undergraduate & Master's Courses
 
-**Programming Techniques**, School of Electrical and Computer Engineering, NTUA, 2015–2017  
+**Programming Techniques**, National Technical University of Athens, 2015–2017  
 - Undergraduate course on data structures and object-oriented programming  
 
-**Computer Programming**, School of Electrical and Computer Engineering, NTUA, 2015–2017  
+**Computer Programming**, National Technical University of Athens, 2015–2017  
 - Undergraduate course on computer programming and algorithmic problem-solving  

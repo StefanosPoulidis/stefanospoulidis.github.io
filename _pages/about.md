@@ -17,16 +17,17 @@ Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition o
 My CV is available [here](/files/Stefanos_Poulidis_CV.pdf).
 
 
+**Research interests**
+
+behavioral operations, human-AI collaboration,  AI governance, algorithmic advice, service operations
+
+
 <div style="margin:10px 0; padding:6px; background:#f9f9f9; border-left:4px solid #1a73e8;">
   📢 <strong>Upcoming INFORMS talk:</strong> <em>Self-Regulated Use of AI Hinders Long-Term Learning</em><br>
   Session SC50 — Recent Advances in Data-Driven & AI-Guided Decision-Making (Sun 26 Oct, 1:15–2:30pm, Bldg B Lvl 3 B310)
 </div>
 
 
-
-**Research interests**
-
-behavioral operations, human-AI collaboration,  AI governance, algorithmic advice, service operations
 
 
 ## Research

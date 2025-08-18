@@ -2,6 +2,8 @@
 main:
   - title: "Research"
     url: "#research"
+  - title: "Fieldwork"
+    url: "#fieldwork"
   - title: "Teaching"
     url: "/teaching/"
   - title: "CV"

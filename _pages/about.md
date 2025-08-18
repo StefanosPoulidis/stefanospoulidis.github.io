@@ -16,6 +16,12 @@ Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition o
 
 My CV is available [here](/files/Stefanos_Poulidis_CV.pdf).
 
+<div style="margin-top:10px; margin-bottom:20px; padding:8px; background:#f9f9f9; border-left:4px solid #1a73e8;">
+  📢 Upcoming talk: <strong>INFORMS Annual Meeting 2025</strong> – 
+  <em>Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</em>
+</div>
+
+
 
 **Research interests**
 

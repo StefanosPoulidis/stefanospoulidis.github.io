@@ -56,12 +56,12 @@ behavioral operations, human-AI collaboration,  AI governance, algorithmic advic
 
 
 
-  <h4><strong>Self-Regulated Use of AI Hinders Long-Term Learning</strong></h4> 
+  <h3><strong>Self-Regulated Use of AI Hinders Long-Term Learning</strong></h3> 
   with Hamsa Bastani and Osbert Bastani  
 
 
 
-  <h4><strong>Modeling AI Signals</strong></h4> 
+  <h3><strong>Modeling AI Signals</strong></h3> 
   with Hamsa Bastani and Spyros Zoumpoulis 
 
   

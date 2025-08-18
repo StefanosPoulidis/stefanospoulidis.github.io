@@ -40,6 +40,19 @@ behavioral operations, human-AI collaboration,  AI governance, algorithmic advic
     <p>Algorithmic advice increasingly supports human decision-making in high-stakes domains such as healthcare, law, and finance. While prior work has mostly studied <i>action signals</i>, which recommend specific actions, many practical implementations actually rely on <i>attention signals</i>, which highlight critical decisions without prescribing a course of action—e.g., in hospitals, attention signals may trigger upon encountering high-risk patients, while action signals may additionally suggest specific treatments for those patients. Naïvely, if both kinds of signals are reliable, then action signals may be clearly preferable since they provide significantly more information to the decision-maker. To assess this hypothesis, we study the impact of these signals on human decision-making via an extensive behavioral experiment in the context of chess, a challenging and well-studied decision-making problem where experts frequently rely on algorithmic advice. We find that both signal types can effectively improve decision-making, with attention signals achieving at least 40% of the benefits of action signals. However, we find that action signals only improve decision-making in the specific states where they are provided, and can even guide decision-makers into "uncharted waters" where they are unsure how to make effective decisions, thereby degrading subsequent performance. In contrast, attention signals improve decision-making quality not only in states where they are given, but also in subsequent states. Our findings suggest that action signals act as substitutes for human thinking, whereas attention signals act as complements—thus, attention signals may be preferable to action signals even in settings where both kinds of signals are considered reliable.</p>
   </div>
 
+
+
+  <h4><strong>Self-Regulated Use of AI Hinders Long-Term Learning</strong></h4> 
+  with Hamsa Bastani and Osbert Bastani  
+
+
+
+  <h4><strong>Modeling AI Signals</strong></h4> 
+  with Hamsa Bastani and Spyros Zoumpoulis 
+
+  
+
+
 ## Fieldwork
 
 <!-- Carousel Container -->

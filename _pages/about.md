@@ -14,7 +14,13 @@ My research seeks to understand how humans interact with AI tools and to design 
 
 Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo. I hold a B.S. and M.S. in Electrical and Computer Engineering from the National Technical University of Athens. 
 
-My CV is available [here](/files/Stefanos_Poulidis_CV.pdf).
+<p>
+  <a href="/files/Stefanos_Poulidis_CV.pdf" 
+     style="display:inline-block; padding:8px 16px; background:#1a73e8; color:#fff; border-radius:6px; text-decoration:none; font-weight:bold;">
+    📄 View my CV
+  </a>
+</p>
+
 
 
 **Research interests**

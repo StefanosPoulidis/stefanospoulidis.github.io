@@ -16,7 +16,7 @@ Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition o
 
 <p>
   <a href="/files/Stefanos_Poulidis_CV.pdf" 
-     style="display:inline-block; padding:8px 16px; background:#1a73e8; color:#fff; border-radius:6px; text-decoration:none; font-weight:bold;">
+     style="display:inline-block; padding:4px 10px; font-size:90%; background:#1a73e8; color:#fff; border-radius:4px; text-decoration:none; font-weight:bold;">
     📄 View my CV
   </a>
 </p>

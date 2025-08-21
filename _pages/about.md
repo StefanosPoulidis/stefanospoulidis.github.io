@@ -10,7 +10,7 @@ redirect_from:
 
 I am a rising fifth-year PhD student in Decision Sciences at INSEAD. I am immensely fortunate to be mentored and advised by [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
 
-My research seeks to understand how humans interact with AI tools and to design operational frameworks that harness AI effectively. I focus on two main objectives: (i) studying the effects of algorithms, AI, and GenAI on human learning and decision-making, and (ii) developing governance policies that align AI use with individual and organizational goals. I am passionate about behavioral, service, and data-driven operations, especially in high-stakes applications, such as education and healthcare, where decisions shape both immediate performance and long-term outcomes.
+My research lies at the intersection of behavioral, service, and data-driven operations. I study <em>human–AI interactions</em> to inform the design of operational frameworks that harness AI effectively. I focus on two complementary dimensions: <em>tool design</em>—how AI systems should be structured to support human decision-making and performance—and <em>policy design</em>—who should use them, under what conditions, and with what guardrails. Through this work, I aim to advance theory and practice in the governance of human–AI systems, with the potential to both protect and enhance human well-being and organizational performance.
 
 Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo. I hold a B.S. and M.S. in Electrical and Computer Engineering from the National Technical University of Athens. 
 
@@ -25,7 +25,7 @@ Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition o
 
 **Research interests**
 
-behavioral operations, human-AI collaboration,  AI governance, algorithmic advice, service operations
+behavioral operations, human-AI collaboration,  AI governance, algorithmic advice, policy design, service operations
 
 
 

@@ -38,7 +38,8 @@ behavioral operations, human-AI collaboration,  AI governance, algorithmic advic
    <em>Under Revie</em>w, **Management Science**
 
   <ul class="pub-awards">
-    <li><em>Finalist</em>, TIMES Working Paper Award, 2025</li>
+    <li><em>Winner</em>, Decision Analysis Society Student Paper Award, 2025</li>
+    <li><em>Finalist</em>, TIMES Working Paper Award, 2025 (Winner TBA)</li>
   </ul>
 
   <button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button> 

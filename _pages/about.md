@@ -36,11 +36,7 @@ behavioral operations, human-AI collaboration,  AI governance, algorithmic advic
   with Haosen Ge, Hamsa Bastani, and Osbert Bastani  
 
    <em>Under Revie</em>w, **Management Science**
-
-  <ul class="pub-awards">
-    <li><em>Winner</em>, Decision Analysis Society Student Paper Award, 2025</li>
-    <li><em>Finalist</em>, TIMES Working Paper Award, 2025 (Winner TBA)</li>
-  </ul>
+   
 
   <button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button> 
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584" target="_blank" class="pub-btn">Working Paper</a>

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising fifth-year PhD student in Decision Sciences at INSEAD. I am immensely fortunate to be mentored and advised by [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
+I am a rising fifth-year PhD student in Decision Sciences at INSEAD. I am immensely fortunate to be advised by [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
 
 My research lies at the intersection of behavioral, service, and data-driven operations. I study <em>human–AI interactions</em> to inform the design of operational frameworks that harness AI effectively. I focus on two complementary dimensions: <em>tool design</em>—how AI systems should be structured to support human decision-making and performance—and <em>policy design</em>—who should use them, under what conditions, and with what guardrails. Through this work, I aim to advance theory and practice in the governance of human–AI systems, with the potential to both protect and enhance human well-being and organizational performance.
 

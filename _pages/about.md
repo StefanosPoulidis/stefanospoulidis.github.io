@@ -11,7 +11,7 @@ redirect_from:
 I am a rising fifth-year PhD student in Decision Sciences at INSEAD. I am immensely fortunate to be advised by [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
 
 
-At the core of my research is a central question: <em>how should we design algorithms and govern their use to maximize productivity and develop human capital?</em>
+My research agenda centers on a key question: <em>how should we design algorithms and govern their use to maximize productivity and develop human capital?</em>
 This question drives my agenda in behavioral, service, and data-driven operations. I study human-AI interactions by integrating sequential decision-making modeling with large-scale behavioral experiments and collaborations with firms.
 
 Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo. I hold a B.S. and M.S. in Electrical and Computer Engineering from the National Technical University of Athens. 

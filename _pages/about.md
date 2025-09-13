@@ -24,12 +24,9 @@ Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition o
 </p>
 
 
-
 **Research interests**
 
 behavioral operations, human-AI collaboration,  AI governance, service operations, human capital development
-
-
 
 ## Research
 

@@ -31,13 +31,17 @@ behavioral operations, human-AI collaboration,  AI governance, service operation
 
 
 
-
 ## Research
 
   <h3><strong>Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</strong></h3> 
   with Haosen Ge, Hamsa Bastani, and Osbert Bastani  
 
    <em>Under Revie</em>w, **Management Science**
+
+  <ul class="pub-awards">
+    <li><em>Winner</em>, Decision Analysis Society Student Paper Award, 2025</li>
+    <li><em>Finalist</em>, TIMES Working Paper Award, 2025</li>
+  </ul>
    
 
   <button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button> 

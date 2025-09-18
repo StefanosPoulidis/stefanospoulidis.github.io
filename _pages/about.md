@@ -52,6 +52,7 @@ behavioral operations, human-AI collaboration,  AI governance, service operation
 
   <h3><strong>Self-Regulated Use of AI Hinders Long-Term Learning</strong></h3> 
   with Hamsa Bastani and Osbert Bastani
+  
   Draft available upon request
 
 

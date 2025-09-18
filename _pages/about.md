@@ -55,10 +55,11 @@ behavioral operations, human-AI collaboration,  AI governance, service operation
 
 
 
-  <h3><strong>Modeling AI Signals</strong></h3> 
+  <h3><strong>AI-first: Optimizing AI Workflow Design at Scale</strong></h3> 
   with Hamsa Bastani and Spyros Zoumpoulis 
 
-  
+
+   <h3><strong>Optimizing Algorithmic Signals for Sequential Decisions</strong></h3>
 
 
 ## Fieldwork

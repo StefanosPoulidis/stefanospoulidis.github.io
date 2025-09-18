@@ -33,7 +33,7 @@ behavioral operations, human-AI collaboration,  AI governance, service operation
   <h3><strong>Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</strong></h3> 
   with Haosen Ge, Hamsa Bastani, and Osbert Bastani  
 
-   <em>Under Revie</em>w, **Management Science**
+   <em>Under Review</em>, **Management Science**
 
   <ul class="pub-awards">
     <li><em>Winner</em>, Decision Analysis Society Student Paper Award, 2025</li>
@@ -51,7 +51,8 @@ behavioral operations, human-AI collaboration,  AI governance, service operation
 
 
   <h3><strong>Self-Regulated Use of AI Hinders Long-Term Learning</strong></h3> 
-  with Hamsa Bastani and Osbert Bastani  
+  with Hamsa Bastani and Osbert Bastani
+  Draft available upon request
 
 
 

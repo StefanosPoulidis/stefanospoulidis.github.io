@@ -26,14 +26,14 @@ Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition o
 
 **Research interests**
 
-behavioral operations, human-AI collaboration,  AI governance, service operations, human capital development
+behavioral operations, human-AI collaboration, AI governance, service operations, human capital development
 
 ## Research
 
   <h3><strong>Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</strong></h3> 
   with Haosen Ge, Hamsa Bastani, and Osbert Bastani  
 
-   <em>Under Review</em>, **Management Science**
+   <em>Major Revision</em>, **Management Science**
 
   <ul class="pub-awards">
     <li><em>Winner</em>, Decision Analysis Society Student Paper Award, 2025</li>

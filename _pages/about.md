@@ -36,8 +36,8 @@ behavioral operations, human-AI collaboration, AI governance, service operations
    <em>Major Revision</em>, **Management Science**
 
   <ul class="pub-awards">
-    <li><em>Winner</em>, INFORMS Decision Analysis Society Student Paper Award, 2025</li>
-    <li><em>Finalist</em>, INFORMS TIMES Working Paper Award, 2025</li>
+    <li><em>1st Place</em>, INFORMS Decision Analysis Society Student Paper Award, 2025</li>
+    <li><em>Finalist</em>, INFORMS TIMES Best Working Paper Award, 2025</li>
   </ul>
    
 

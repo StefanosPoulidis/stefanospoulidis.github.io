@@ -14,7 +14,9 @@ I am a rising fifth-year PhD student in Decision Sciences at INSEAD. I am immens
 My research agenda centers on a key question: <em>how should we design algorithms and govern their use to maximize productivity and develop human capital?</em>
 This question guides my research in behavioral, service, and AI-driven operations. I study <em>human-AI systems</em> by integrating sequential decision-making modeling with behavioral experiments and industry collaborations to enrich both theory and managerial practice.
 
-Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo. I hold a B.S. and M.S. in Electrical and Computer Engineering from the National Technical University of Athens. 
+Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo. 
+
+I hold a B.S. and M.S. in Electrical and Computer Engineering from the National Technical University of Athens. 
 
 <p>
   <a href="/files/Stefanos_Poulidis_CV.pdf" 

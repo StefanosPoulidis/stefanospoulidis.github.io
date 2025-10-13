@@ -12,7 +12,7 @@ I am a rising fifth-year PhD student in Decision Sciences at INSEAD. I am immens
 
 
 My research agenda centers on a key question: <em>how should we design algorithms and govern their use to maximize productivity and develop human capital?</em>
-This question guides my research in behavioral, service, and AI-driven operations. I study <em>human-AI systems</em> by integrating sequential decision-making modeling with behavioral experiments and industry collaborations to enrich both theory and managerial practice. My research shows that even reliable algorithms and accurate AI advice can undermine performance and hinder human learning.
+This question guides my research in behavioral, service, and AI-driven operations. I study <em>human-AI systems</em> by integrating sequential decision-making modeling with behavioral experiments and industry collaborations to enrich both theory and managerial practice. My research shows that even reliable algorithms and accurate AI recommendations can undermine performance and hinder human learning. Effective AI deployment, therefore, should aim to optimize the <em>integrated performance</em> of human–AI systems.
 
 Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo. 
 

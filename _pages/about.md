@@ -50,18 +50,18 @@ behavioral operations, human-AI collaboration, AI governance, service operations
 
 
 
-  <h3><strong>Self-Regulated Use of AI Hinders Long-Term Learning</strong></h3> 
+  <h3><strong>Self-Regulated AI Use Hinders Long-Term Learning</strong></h3> 
   with Hamsa Bastani and Osbert Bastani
   
   Draft available upon request
 
 
 
-  <h3><strong>AI-first: Optimizing AI Workflow Design at Scale</strong></h3> 
+  <h3><strong>Generative AI Workflows at Work</strong></h3> 
   with Hamsa Bastani and Spyros Zoumpoulis 
 
 
-   <h3><strong>Optimizing Algorithmic Signals for Sequential Decisions</strong></h3>
+   <h3><strong>To Alert or to Tell? Optimizing AI Signals for Decision-Making</strong></h3>
 
 
 ## Fieldwork

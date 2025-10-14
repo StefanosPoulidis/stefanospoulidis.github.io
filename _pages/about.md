@@ -42,7 +42,6 @@ behavioral operations, human-AI collaboration, AI governance, service operations
     <li><em>Finalist</em>, TIMES Best Working Paper Award, 2025</li>
   </ul>
    
-
   <button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button> 
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584" target="_blank" class="pub-btn">Working Paper</a>
 
@@ -52,10 +51,16 @@ behavioral operations, human-AI collaboration, AI governance, service operations
 
 
 
+
   <h3><strong>Self-Regulated AI Use Hinders Long-Term Learning</strong></h3> 
   with Hamsa Bastani and Osbert Bastani
-  
-  Draft available upon request
+
+  <button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button> 
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584](https://www.dropbox.com/scl/fi/xr01rbd9kiui5nbj7ta17/Self-Regulated-AI-Use-Hinders-Long-Term-Learning.pdf?rlkey=iw9o87ngri1q2vrfdsh3ricec&st=ehfvwnhy&dl=0" target="_blank" class="pub-btn">Working Paper</a>
+
+  <div id="abstract1" class="pub-abstract">
+    <p>There has been significant recent interest in leveraging artificial intelligence (AI) tutors to aid student learning. Current systems enable students to control the timing and nature of AI assistance; however, this student-directed access risks short-circuiting the effortful practice essential for lasting expertise. To understand these risks, we conducted a long-term field experiment with over 200 chess club students training on a custom AI-assisted chess platform. Students were randomly assigned to either a <i>system-regulated</i> condition, where the platform automatically provided AI tips at key moments, or a <i>self-regulated</i> condition, where students could additionally request help at any time by clicking a button. After 12 weeks of training, we find that both groups improved their chess skills, but students in the self-regulated condition achieved less than half the performance gains of students in the system-regulated condition (30\% vs. 64\%). We identify two potential mechanisms for these adverse effects: reduced engagement and diminished productive struggle—students in the self-regulated condition trained less, reported a lower sense of accomplishment, and became increasingly reliant on AI even though they were aware of its harms. We also show that these effects are mitigated among highly motivated students, but not among highly skilled students. Our findings demonstrate that while scaffolded AI assistance can accelerate learning, unrestricted access can undermine it.</p>
+  </div>
 
 
 

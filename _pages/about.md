@@ -35,12 +35,12 @@ behavioral operations, human-AI collaboration, AI governance, service operations
   <ul style="margin:10px 0; padding-left:20px;">
     <li>
       <strong>Sun, Oct 26—1:40–2:05 pm (Building B Level 3 B310)</strong><br>
-      Session SC50 — Recent Advances in Data-Driven & AI-Guided Decision-Making<br>
+      Session SC50—Recent Advances in Data-Driven & AI-Guided Decision-Making<br>
       <em>Self-Regulated Use of AI Hinders Long-Term Learning</em>
     </li>
     <li style="margin-top:8px;">
       <strong>Mon, Oct 27—4:30–4:50 pm (Building B Level 3 B306)</strong><br>
-      Session ME46 — Decision Analysis Society Student Paper Award<br>
+      Session ME46—Decision Analysis Society Student Paper Award<br>
       <em>Action vs. Attention Signals for Human–AI Collaboration: Evidence from Chess</em>
     </li>
   </ul>

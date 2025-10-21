@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising fifth-year PhD student in Decision Sciences at INSEAD. I am immensely fortunate to be advised by [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
+I am a fifth-year PhD student in Decision Sciences at INSEAD. I am immensely fortunate to be advised by [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
 
 
 My research agenda centers on a key question: <em>how should we design algorithms and govern their use to maximize productivity and develop human capital?</em>

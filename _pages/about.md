@@ -55,7 +55,7 @@ behavioral operations, human-AI collaboration, AI governance, service operations
 
   <ul class="pub-awards">
     <li><em>1st Place</em>, Decision Analysis Society Student Paper Award, 2025</li>
-    <li><em>Finalist</em>, TIMES Best Working Paper Award, 2025</li>
+    <li><em>Finalist</em>, TIMES Best Working Paper Award, 2025 (winner TBA)</li> 
   </ul>
    
   <button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button> 

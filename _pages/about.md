@@ -30,18 +30,18 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 
 behavioral operations, human-AI collaboration, AI governance, service operations, human capital development
 
-<div style="margin:10px 0; padding:6px; background:#f9f9f9; border-left:4px solid #1a73e8;">
-  📢 <strong>I will be presenting at the following sessions at the 2025 INFORMS Annual Meeting:</strong>
-  <ul style="margin:8px 0; padding-left:20px;">
+<div style="margin:10px 0; padding:10px; background:#f9f9f9; border-left:4px solid #1a73e8;">
+  📢 <strong>I will be presenting at the 2025 INFORMS Annual Meeting:</strong>
+  <ul style="margin:10px 0; padding-left:20px;">
     <li>
+      <strong>Sun, Oct 26 — 1:40–2:05 pm (Bldg B Lvl 3 B310)</strong><br>
       Session SC50 — Recent Advances in Data-Driven & AI-Guided Decision-Making<br>
-      <em>Self-Regulated AI Use Hinders Long-Term Learning</em><br>
-      (Sun 26 Oct, 1:40–2:05 pm, Building B Level 3 B310)
+      <em>Self-Regulated Use of AI Hinders Long-Term Learning</em>
     </li>
-    <li>
+    <li style="margin-top:8px;">
+      <strong>Mon, Oct 27 — 4:30–4:55 pm (Bldg B Lvl 3 B306)</strong><br>
       Session ME46 — Decision Analysis Society Student Paper Award<br>
-      <em>Action vs. Attention Signals for Human–AI Collaboration: Evidence from Chess</em><br>
-      (Mon 27 Oct, 4:30–4:55 pm, Building B Level 3 B306)
+      <em>Action vs. Attention Signals for Human–AI Collaboration: Evidence from Chess</em>
     </li>
   </ul>
 </div>

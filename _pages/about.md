@@ -39,7 +39,7 @@ behavioral operations, human-AI collaboration, AI governance, service operations
     <li style="margin-top:8px;">
       <strong>Monday, Oct 27—4:30–4:50 pm (Building B Level 3 B306)</strong><br>
       Session ME46—Decision Analysis Society Student Paper Award<br>
-      <em>Action vs. Attention Signals for Human–AI Collaboration: Evidence from Chess</em>
+      <em>Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</em>
     </li>
   </ul>
 </div>

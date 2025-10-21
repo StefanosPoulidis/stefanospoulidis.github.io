@@ -11,8 +11,7 @@ redirect_from:
 I am a fifth-year PhD student in Decision Sciences at INSEAD. I am immensely fortunate to be advised by [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
 
 
-My research agenda centers on a key question: <em>how should we design algorithms and govern their use to maximize productivity and develop human capital?</em>
-This question guides my research in behavioral, service, and AI-driven operations. I study <em>human-AI systems</em> by integrating sequential decision-making modeling with behavioral experiments and industry collaborations to enrich both theory and managerial practice. My research shows that even reliable algorithms and accurate AI recommendations can undermine performance and hinder human learning.
+My work examines how we should design and govern algorithms and AI to improve productivity and develop human skills. This question guides my research in behavioral, service, and AI-driven operations. Methodologically, I study human–AI systems by integrating sequential decision-making models with behavioral experiments and industry collaborations to advance both theory and managerial practice.
 
 Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo. 
 

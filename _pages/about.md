@@ -31,7 +31,7 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 behavioral operations, human-AI collaboration, AI governance, service operations, human capital development
 
 <div style="margin:10px 0; padding:10px; background:#f9f9f9; border-left:4px solid #1a73e8;">
-  📢 <strong>I will be presenting at the 2025 INFORMS Annual Meeting:</strong>
+  📢 <strong>I will be presenting at the following sessions at the 2025 INFORMS Annual Meeting:</strong>
   <ul style="margin:10px 0; padding-left:20px;">
     <li>
       <strong>Sun, Oct 26 — 1:40–2:05 pm (Building B Level 3 B310)</strong><br>

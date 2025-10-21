@@ -34,7 +34,7 @@ behavioral operations, human-AI collaboration, AI governance, service operations
     <li>
       <strong>Sunday, Oct 26—1:40–2:05 pm (Building B Level 3 B310)</strong><br>
       Session SC50—Recent Advances in Data-Driven & AI-Guided Decision-Making<br>
-      <em>Self-Regulated Use of AI Hinders Long-Term Learning</em>
+      <em>Self-Regulated AI Use Hinders Long-Term Learning</em>
     </li>
     <li style="margin-top:8px;">
       <strong>Monday, Oct 27—4:30–4:50 pm (Building B Level 3 B306)</strong><br>

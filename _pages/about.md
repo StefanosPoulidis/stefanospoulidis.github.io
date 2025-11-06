@@ -28,23 +28,6 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 
 behavioral operations, human-AI collaboration, AI governance, service operations, human capital development
 
-<div style="margin:10px 0; padding:10px; background:#f9f9f9; border-left:4px solid #1a73e8;">
-  📢 <strong>I will be presenting at the following sessions at the 2025 INFORMS Annual Meeting:</strong>
-  <ul style="margin:10px 0; padding-left:20px;">
-    <li>
-      <strong>Sunday, Oct 26—1:40–2:05 pm (Building B Level 3 B310)</strong><br>
-      Session SC50—Recent Advances in Data-Driven & AI-Guided Decision-Making<br>
-      <em>Self-Regulated AI Use Hinders Long-Term Learning</em>
-    </li>
-    <li style="margin-top:8px;">
-      <strong>Monday, Oct 27—4:30–4:50 pm (Building B Level 3 B306)</strong><br>
-      Session ME46—Decision Analysis Society Student Paper Award<br>
-      <em>Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</em>
-    </li>
-  </ul>
-</div>
-
-
 ## Research
 
   <h3><strong>Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</strong></h3> 
@@ -54,7 +37,7 @@ behavioral operations, human-AI collaboration, AI governance, service operations
 
   <ul class="pub-awards">
     <li><em>1st Place</em>, Decision Analysis Society Student Paper Award, 2025</li>
-    <li><em>Finalist</em>, TIMES Best Working Paper Award, 2025 (winner TBA)</li> 
+    <li><em>Finalist</em>, TIMES Best Working Paper Award, 2025</li> 
   </ul>
    
   <button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button> 

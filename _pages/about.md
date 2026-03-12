@@ -66,7 +66,10 @@ behavioral operations, human-AI collaboration, AI governance, service operations
   with Hamsa Bastani and Spyros Zoumpoulis 
 
 
-   <h3><strong>To Alert or to Tell? Optimizing AI Signals for Decision-Making</strong></h3>
+   <h3><strong>When Good Advice Leads Astray: Trajectory-Aware Signal Design for Human-AI Collaboration</strong></h3>
+
+   <h3><strong>Generativity Without Diffusion: Curation Gaps and AI Fluency in Platform Ecosystems</strong></h3> 
+  with Leonard Boussioux
 
 
 ## Fieldwork

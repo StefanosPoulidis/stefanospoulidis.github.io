@@ -49,7 +49,6 @@ behavioral operations, human-AI collaboration, AI governance, service operations
 
 
 
-
   <h3><strong>Self-Regulated AI Use Hinders Long-Term Learning</strong></h3> 
   with Hamsa Bastani and Osbert Bastani
 
@@ -61,15 +60,15 @@ behavioral operations, human-AI collaboration, AI governance, service operations
   </div>
 
 
-
   <h3><strong>Generative AI Workflows at Work</strong></h3> 
   with Hamsa Bastani and Spyros Zoumpoulis 
 
 
-   <h3><strong>When Good Advice Leads Astray: Trajectory-Aware Signal Design for Human-AI Collaboration</strong></h3>
-
-   <h3><strong>Generativity Without Diffusion: Curation Gaps and AI Fluency in Platform Ecosystems</strong></h3> 
+  <h3><strong>When Anyone Can Build: Curation, AI Fluency, and Use-Side Governance in AI Skill Ecosystems</strong></h3> 
   with Leonard Boussioux
+
+   <h3><strong>State-Coded AI Signals Under Load: Evidence from Virtual Sitting</strong></h3> 
+  with Blair Liu 
 
 
 ## Fieldwork

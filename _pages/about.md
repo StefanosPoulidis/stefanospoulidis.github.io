@@ -26,7 +26,7 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 
 **Research interests**
 
-behavioral operations, human-AI collaboration, AI governance, service operations, human capital development
+behavioral operations, human-AI collaboration, AI governance, education operations, information systems, human capital development
 
 ## Research
 

@@ -148,9 +148,9 @@ video {
   color: #494e52;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 900px) {
   .site-nav-static .visible-links {
-    padding-left: clamp(11rem, 17vw, 14rem);
+    padding-left: clamp(14rem, 20.5vw, 16.5rem);
   }
 }
 
@@ -456,6 +456,12 @@ video {
 
 .teaching-material h3 a:hover {
   text-decoration: underline;
+}
+
+@media (max-width: 899px) {
+  .site-nav-static .visible-links {
+    padding-left: 0;
+  }
 }
 
 @media (max-width: 600px) {

@@ -83,7 +83,7 @@ require_pattern "assets/css/main.scss" 'font-weight:[[:space:]]*400' "regular-we
 reject_pattern "assets/css/main.scss" 'masthead__menu-item--lg' "large separate masthead item style"
 require_pattern "assets/css/main.scss" 'float:[[:space:]]*none' "mobile layout float reset"
 require_pattern "assets/css/main.scss" 'flex-wrap:[[:space:]]*wrap' "mobile nav wraps instead of widening page"
-require_pattern "assets/css/main.scss" 'padding-left:[[:space:]]*clamp\(11rem, 17vw, 14rem\)' "desktop nav starts further right"
+require_pattern "assets/css/main.scss" 'padding-left:[[:space:]]*clamp\(14rem, 20\.5vw, 16\.5rem\)' "desktop nav aligns with main text column"
 require_pattern "assets/css/main.scss" 'fieldwork-paper' "fieldwork paper grouping styles"
 require_pattern "assets/css/main.scss" 'font-size:[[:space:]]*0\.95rem' "larger fieldwork captions"
 require_pattern "assets/css/main.scss" 'fieldwork-paper-grid--learning' "larger self-regulated fieldwork gallery"

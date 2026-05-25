@@ -268,7 +268,8 @@ video {
 .fieldwork-card--newsletter {
   grid-column: 1 / -1;
   justify-self: center;
-  max-width: 320px;
+  width: 100%;
+  max-width: calc((100% - 1rem) / 2);
 }
 
 .fieldwork-card {

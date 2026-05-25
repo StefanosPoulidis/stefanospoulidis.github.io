@@ -252,6 +252,14 @@ video {
   max-width: 560px;
 }
 
+.fieldwork-paper-grid--learning {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.fieldwork-paper-grid--learning .fieldwork-card:last-child {
+  grid-column: 1 / -1;
+}
+
 .fieldwork-card {
   margin: 0;
 }
@@ -354,8 +362,12 @@ video {
   }
 
   .fieldwork-paper-grid,
-  .fieldwork-paper-grid--single {
+  .fieldwork-paper-grid--single,
+  .fieldwork-paper-grid--learning {
     grid-template-columns: minmax(0, 1fr);
   }
 
+  .fieldwork-paper-grid--learning .fieldwork-card:last-child {
+    grid-column: auto;
+  }
 }

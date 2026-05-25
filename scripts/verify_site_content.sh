@@ -55,10 +55,12 @@ require_pattern "assets/css/main.scss" 'float:[[:space:]]*none' "mobile layout f
 require_pattern "assets/css/main.scss" 'flex-wrap:[[:space:]]*wrap' "mobile nav wraps instead of widening page"
 require_pattern "assets/css/main.scss" 'fieldwork-paper' "fieldwork paper grouping styles"
 require_pattern "assets/css/main.scss" 'font-size:[[:space:]]*0\.95rem' "larger fieldwork captions"
+require_pattern "assets/css/main.scss" 'fieldwork-paper-grid--learning' "larger self-regulated fieldwork gallery"
 
 require_pattern "_pages/about.md" 'fieldwork-paper' "fieldwork paper grouping markup"
 require_pattern "_pages/about.md" 'Action vs\. Attention Signals' "Action vs. Attention fieldwork group"
 require_pattern "_pages/about.md" 'Self-Regulated AI Use' "Self-regulated fieldwork group"
+require_pattern "_pages/about.md" 'fieldwork-paper-grid--learning' "Self-regulated gallery modifier"
 reject_pattern "_pages/about.md" 'External communication and research visibility|Chess academies, student training, and dissemination|grouped with' "fieldwork explanatory blurbs"
 reject_pattern "_pages/about.md" 'swiper-container' "carousel markup"
 

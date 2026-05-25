@@ -101,7 +101,7 @@ behavioral operations, human-AI collaboration, AI governance, education operatio
   <div class="fieldwork-paper__text">
     <p class="fieldwork-paper__label">Self-Regulated AI Use Hinders Long-Term Learning</p>
   </div>
-  <div class="fieldwork-paper-grid">
+  <div class="fieldwork-paper-grid fieldwork-paper-grid--learning">
     <figure class="fieldwork-card">
       <img src="{{ site.baseurl }}/assets/images/chess_kids.jpg" alt="Presentation of the chess-training platform at chess academies">
       <figcaption>Presenting the chess-training platform to chess academies.</figcaption>

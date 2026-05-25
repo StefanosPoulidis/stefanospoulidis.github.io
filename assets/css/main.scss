@@ -368,6 +368,135 @@ video {
   text-decoration: underline;
 }
 
+.teaching-lede {
+  margin: 0 0 1.35rem;
+  color: #2f3a45;
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
+.teaching-platform {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(240px, 0.78fr);
+  gap: 1.25rem;
+  align-items: center;
+  margin: 1.35rem 0 2.25rem;
+  padding: 1.15rem 0;
+  border-top: 1px solid #e5e7eb;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.teaching-platform__label,
+.teaching-material__label {
+  margin: 0 0 0.35rem;
+  color: #52616f;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.teaching-platform h2 {
+  margin: 0 0 0.55rem;
+  font-size: 1.25rem;
+}
+
+.teaching-platform p {
+  margin-top: 0;
+}
+
+.teaching-platform__facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.5rem;
+  margin: 0.85rem 0 0;
+}
+
+.teaching-platform__facts span {
+  display: inline-block;
+  padding: 0.26rem 0.5rem;
+  border: 1px solid #d3d9e0;
+  border-radius: 4px;
+  color: #2f3a45;
+  font-size: 0.82rem;
+  background: #ffffff;
+}
+
+.teaching-actions {
+  margin: 0.95rem 0 0;
+}
+
+.teaching-platform__image-link {
+  display: block;
+}
+
+.teaching-platform__image-link img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  object-position: top center;
+  border: 1px solid #d9dee4;
+  border-radius: 6px;
+  background: #f5f7f9;
+}
+
+.teaching-course-list {
+  margin-top: 1rem;
+}
+
+.teaching-course {
+  padding: 1.1rem 0;
+  border-top: 1px solid #e5e7eb;
+}
+
+.teaching-course:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.teaching-course h3,
+.teaching-material h3 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.teaching-course__meta {
+  margin: 0 0 0.55rem;
+  color: #52616f;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.teaching-course p,
+.teaching-material p {
+  margin-bottom: 0.65rem;
+}
+
+.teaching-course ul {
+  margin-top: 0.45rem;
+}
+
+.teaching-materials {
+  margin-top: 1rem;
+}
+
+.teaching-material {
+  padding: 1rem 0;
+  border-top: 1px solid #e5e7eb;
+}
+
+.teaching-material h3 a {
+  color: #243447;
+  text-decoration: none;
+}
+
+.teaching-material h3 a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 600px) {
   #main {
     width: 100%;
@@ -456,6 +585,10 @@ video {
   }
 
   .media-mention-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .teaching-platform {
     grid-template-columns: minmax(0, 1fr);
   }
 }

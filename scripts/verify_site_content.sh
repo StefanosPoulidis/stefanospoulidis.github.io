@@ -54,15 +54,12 @@ require_pattern "assets/css/main.scss" '^\.author__urls \{' "author URL list ove
 require_pattern "assets/css/main.scss" 'float:[[:space:]]*none' "mobile layout float reset"
 require_pattern "assets/css/main.scss" 'flex-wrap:[[:space:]]*wrap' "mobile nav wraps instead of widening page"
 require_pattern "assets/css/main.scss" 'fieldwork-paper' "fieldwork paper grouping styles"
-require_pattern "assets/css/main.scss" 'teaching-feature' "teaching feature styles"
 
 require_pattern "_pages/about.md" 'fieldwork-paper' "fieldwork paper grouping markup"
 require_pattern "_pages/about.md" 'Action vs\. Attention Signals' "Action vs. Attention fieldwork group"
 require_pattern "_pages/about.md" 'Self-Regulated AI Use' "Self-regulated fieldwork group"
 reject_pattern "_pages/about.md" 'swiper-container' "carousel markup"
 
-require_pattern "_pages/teaching.md" 'teaching-feature' "teaching feature markup"
-require_pattern "_pages/teaching.md" 'POM Tutorials' "POM Tutorials promotion"
 require_pattern "_pages/teaching.md" 'https://stefanospoulidis.github.io/pom-tutorials/' "POM Tutorials link"
 require_pattern "_pages/cv.md" '/files/Stefanos_Poulidis_CV\.pdf' "CV page points to existing PDF path"
 

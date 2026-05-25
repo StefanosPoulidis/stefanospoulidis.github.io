@@ -54,10 +54,12 @@ require_pattern "assets/css/main.scss" '^\.author__urls \{' "author URL list ove
 require_pattern "assets/css/main.scss" 'float:[[:space:]]*none' "mobile layout float reset"
 require_pattern "assets/css/main.scss" 'flex-wrap:[[:space:]]*wrap' "mobile nav wraps instead of widening page"
 require_pattern "assets/css/main.scss" 'fieldwork-paper' "fieldwork paper grouping styles"
+require_pattern "assets/css/main.scss" 'font-size:[[:space:]]*0\.95rem' "larger fieldwork captions"
 
 require_pattern "_pages/about.md" 'fieldwork-paper' "fieldwork paper grouping markup"
 require_pattern "_pages/about.md" 'Action vs\. Attention Signals' "Action vs. Attention fieldwork group"
 require_pattern "_pages/about.md" 'Self-Regulated AI Use' "Self-regulated fieldwork group"
+reject_pattern "_pages/about.md" 'External communication and research visibility|Chess academies, student training, and dissemination|grouped with' "fieldwork explanatory blurbs"
 reject_pattern "_pages/about.md" 'swiper-container' "carousel markup"
 
 require_pattern "_pages/teaching.md" 'https://stefanospoulidis.github.io/pom-tutorials/' "POM Tutorials link"

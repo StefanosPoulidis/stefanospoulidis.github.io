@@ -88,8 +88,6 @@ behavioral operations, human-AI collaboration, AI governance, education operatio
 <div class="fieldwork-paper">
   <div class="fieldwork-paper__text">
     <p class="fieldwork-paper__label">Action vs. Attention Signals for Human-AI Collaboration</p>
-    <h3>External communication and research visibility</h3>
-    <p>The FIDE post is grouped with the action-versus-attention paper, where the chess setting is used to study how different forms of algorithmic advice shape human decision-making.</p>
   </div>
   <div class="fieldwork-paper-grid fieldwork-paper-grid--single">
     <figure class="fieldwork-card">
@@ -102,8 +100,6 @@ behavioral operations, human-AI collaboration, AI governance, education operatio
 <div class="fieldwork-paper">
   <div class="fieldwork-paper__text">
     <p class="fieldwork-paper__label">Self-Regulated AI Use Hinders Long-Term Learning</p>
-    <h3>Chess academies, student training, and dissemination</h3>
-    <p>These fieldwork moments are grouped with the long-term learning paper, which studies how students use AI assistance while training on a custom chess platform.</p>
   </div>
   <div class="fieldwork-paper-grid">
     <figure class="fieldwork-card">

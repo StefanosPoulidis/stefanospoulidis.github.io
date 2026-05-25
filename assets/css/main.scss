@@ -237,14 +237,8 @@ video {
   text-transform: uppercase;
 }
 
-.fieldwork-paper h3 {
-  margin-top: 0;
-  margin-bottom: 0.4rem;
-  font-size: 1.05rem;
-}
-
-.fieldwork-paper__text p:last-child {
-  margin-bottom: 1rem;
+.fieldwork-paper__text {
+  margin-bottom: 0.85rem;
 }
 
 .fieldwork-paper-grid {
@@ -278,10 +272,10 @@ video {
 }
 
 .fieldwork-card figcaption {
-  margin-top: 0.45rem;
+  margin-top: 0.65rem;
   color: #3f4650;
-  font-size: 0.78rem;
-  line-height: 1.35;
+  font-size: 0.95rem;
+  line-height: 1.45;
 }
 
 @media (max-width: 600px) {

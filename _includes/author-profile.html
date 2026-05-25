@@ -9,7 +9,7 @@
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}" class="profile-photo">
-      <br>
+      <h3 class="author__name author__name--under-avatar">{{ author.name }}</h3>
       <p class="contact-label">Contact:</p>
       <p class="contact-email">
         <a href="mailto:stefanos.poulidis@insead.edu">stefanos.poulidis@insead.edu</a>
@@ -18,7 +18,7 @@
     
     {% else %}
       <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" class="profile-photo">
-      <br>
+      <h3 class="author__name author__name--under-avatar">{{ author.name }}</h3>
       <p class="contact-label">Contact:</p>
       <p class="contact-email">
         <a href="mailto:stefanos.poulidis@insead.edu">stefanos.poulidis@insead.edu</a>
@@ -26,10 +26,11 @@
     {% endif %}
   </div>
 
+  {% if author.bio %}
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <p class="author__bio">{{ author.bio }}</p>
   </div>
+  {% endif %}
 
   <div class="author__urls-wrapper">
     <ul class="author__urls social-icons">

@@ -2,8 +2,8 @@
 main:
   - title: "Research"
     url: "#research"
-  - title: "Fieldwork"
-    url: "#fieldwork"
+  - title: "AI Field Deployments"
+    url: "#ai-field-deployments"
   - title: "Teaching"
     url: "/teaching/"
   - title: "CV"

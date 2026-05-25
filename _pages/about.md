@@ -83,19 +83,7 @@ behavioral operations, human-AI collaboration, AI governance, education operatio
 </div>
 
 
-## Fieldwork
-
-<div class="fieldwork-paper">
-  <div class="fieldwork-paper__text">
-    <p class="fieldwork-paper__label">Action vs. Attention Signals for Human-AI Collaboration</p>
-  </div>
-  <div class="fieldwork-paper-grid fieldwork-paper-grid--single">
-    <figure class="fieldwork-card">
-      <img src="{{ site.baseurl }}/assets/images/FIDE_post.png" alt="FIDE post communicating the chess advice study">
-      <figcaption>FIDE officially communicated the study to the broader chess community.</figcaption>
-    </figure>
-  </div>
-</div>
+## AI Field Deployments
 
 <div class="fieldwork-paper">
   <div class="fieldwork-paper__text">

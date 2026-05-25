@@ -57,6 +57,8 @@ require_pattern "_includes/masthead.html" 'class="site-nav-static"' "static wrap
 reject_pattern "_includes/masthead.html" 'hidden-links hidden|navicon' "greedy nav controls"
 reject_pattern "_includes/head.html" 'swiper' "unused Swiper dependency"
 reject_pattern "_includes/footer.html" 'Swiper|swiper' "unused Swiper initialization"
+require_pattern "_data/navigation.yml" 'AI Field Deployments' "AI field deployments navigation label"
+require_pattern "_data/navigation.yml" '#ai-field-deployments' "AI field deployments navigation anchor"
 
 require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*100%' "mobile overflow guard"
 require_pattern "assets/css/main.scss" '^\.author__urls-wrapper,' "author URL wrapper override"
@@ -70,9 +72,10 @@ require_pattern "assets/css/main.scss" 'media-mention-grid' "media mention grid 
 require_pattern "assets/css/main.scss" 'media-paper-links' "related paper link styles"
 
 require_pattern "_pages/about.md" 'fieldwork-paper' "fieldwork paper grouping markup"
-require_pattern "_pages/about.md" 'Action vs\. Attention Signals' "Action vs. Attention fieldwork group"
+require_pattern "_pages/about.md" 'AI Field Deployments' "AI field deployments section heading"
 require_pattern "_pages/about.md" 'Self-Regulated AI Use' "Self-regulated fieldwork group"
 require_pattern "_pages/about.md" 'fieldwork-paper-grid--learning' "Self-regulated gallery modifier"
+reject_pattern "_pages/about.md" 'fieldwork-paper__label">Action vs\. Attention Signals|FIDE officially communicated the study' "FIDE fieldwork block"
 reject_pattern "_pages/about.md" 'External communication and research visibility|Chess academies, student training, and dissemination|grouped with' "fieldwork explanatory blurbs"
 reject_pattern "_pages/about.md" 'swiper-container' "carousel markup"
 require_pattern "_pages/about.md" 'Media Mentions' "media mentions section"

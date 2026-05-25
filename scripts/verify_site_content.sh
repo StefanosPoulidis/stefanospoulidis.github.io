@@ -69,6 +69,7 @@ require_pattern "_data/navigation.yml" 'Awards' "awards navigation label"
 require_pattern "_data/navigation.yml" '/awards/' "awards navigation URL"
 
 require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*100%' "mobile overflow guard"
+require_pattern "_includes/head.html" 'main\.css\?v=\{\{ site\.time' "versioned main stylesheet link"
 require_pattern "assets/css/main.scss" '^\.author__urls-wrapper,' "author URL wrapper override"
 require_pattern "assets/css/main.scss" '^\.author__urls \{' "author URL list override"
 require_pattern "assets/css/main.scss" 'author__name--under-avatar' "author name under avatar style"

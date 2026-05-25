@@ -59,6 +59,8 @@ reject_pattern "_includes/head.html" 'swiper' "unused Swiper dependency"
 reject_pattern "_includes/footer.html" 'Swiper|swiper' "unused Swiper initialization"
 require_pattern "_data/navigation.yml" 'AI Field Deployments' "AI field deployments navigation label"
 require_pattern "_data/navigation.yml" '#ai-field-deployments' "AI field deployments navigation anchor"
+require_pattern "_data/navigation.yml" 'Media Mentions' "media mentions navigation label"
+require_pattern "_data/navigation.yml" '#media-mentions' "media mentions navigation anchor"
 
 require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*100%' "mobile overflow guard"
 require_pattern "assets/css/main.scss" '^\.author__urls-wrapper,' "author URL wrapper override"

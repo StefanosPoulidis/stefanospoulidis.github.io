@@ -4,6 +4,8 @@ main:
     url: "#research"
   - title: "AI Field Deployments"
     url: "#ai-field-deployments"
+  - title: "Media Mentions"
+    url: "#media-mentions"
   - title: "Teaching"
     url: "/teaching/"
   - title: "CV"

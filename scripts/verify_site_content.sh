@@ -73,7 +73,7 @@ require_pattern "assets/css/main.scss" 'fieldwork-paper' "fieldwork paper groupi
 require_pattern "assets/css/main.scss" 'font-size:[[:space:]]*0\.95rem' "larger fieldwork captions"
 require_pattern "assets/css/main.scss" 'fieldwork-paper-grid--learning' "larger self-regulated fieldwork gallery"
 require_pattern "assets/css/main.scss" 'fieldwork-card--newsletter' "smaller newsletter fieldwork card"
-require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*440px' "newsletter image width cap"
+require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*320px' "newsletter image width cap"
 require_pattern "assets/css/main.scss" 'media-mention-grid' "media mention grid styles"
 require_pattern "assets/css/main.scss" 'media-paper-links' "related paper link styles"
 

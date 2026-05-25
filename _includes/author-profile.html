@@ -17,7 +17,7 @@
 
     
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" class="profile-photo">
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" class="profile-photo">
       <br>
       <p class="contact-label">Contact:</p>
       <p class="contact-email">

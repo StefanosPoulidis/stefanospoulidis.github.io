@@ -42,10 +42,14 @@ require_pattern "_config.yml" 'linkedin[[:space:]]*:[[:space:]]*stefanospoul' "L
 require_pattern "_config.yml" '^[[:space:]]+- scripts$' "verification scripts excluded from generated site"
 
 reject_pattern "_includes/author-profile.html" 'btn btn--inverse">Follow' "empty Follow button"
+reject_pattern "_includes/author-profile.html" 'class="author__avatar" alt="\{\{ author.name \}\}" class="profile-photo"' "duplicate avatar class attribute"
 reject_pattern "_includes/head.html" 'swiper' "unused Swiper dependency"
 reject_pattern "_includes/footer.html" 'Swiper|swiper' "unused Swiper initialization"
 
 require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*100%' "mobile overflow guard"
+require_pattern "assets/css/main.scss" '^\.author__urls-wrapper,' "author URL wrapper override"
+require_pattern "assets/css/main.scss" '^\.author__urls \{' "author URL list override"
+require_pattern "assets/css/main.scss" 'float:[[:space:]]*none' "mobile layout float reset"
 require_pattern "assets/css/main.scss" 'fieldwork-paper' "fieldwork paper grouping styles"
 require_pattern "assets/css/main.scss" 'teaching-feature' "teaching feature styles"
 

@@ -57,7 +57,9 @@ video {
 .archive,
 .page__content,
 #main,
-.sidebar {
+.sidebar,
+.masthead__inner-wrap,
+.greedy-nav {
   max-width: 100%;
 }
 
@@ -91,6 +93,25 @@ video {
   color: #2f5f8f;
   font-weight: bold;
   text-decoration: none;
+}
+
+.author__urls-wrapper,
+.author__urls {
+  display: block;
+  position: static;
+}
+
+.author__urls {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.author__urls:before,
+.author__urls:after {
+  display: none;
 }
 
 .cv-link,
@@ -301,16 +322,51 @@ video {
 
 @media (max-width: 600px) {
   #main {
+    width: 100%;
     padding-right: 1rem;
     padding-left: 1rem;
+    box-sizing: border-box;
   }
 
   .masthead__menu {
     overflow-x: auto;
   }
 
+  .greedy-nav,
+  .greedy-nav .visible-links {
+    min-width: 0;
+    width: max-content;
+  }
+
   .masthead__menu-item {
     white-space: nowrap;
+  }
+
+  .sidebar,
+  .page,
+  .archive,
+  .page__content {
+    display: block;
+    float: none;
+    clear: both;
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+  }
+
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
+    display: block;
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .author__urls {
+    text-align: left;
   }
 
   .profile-photo {

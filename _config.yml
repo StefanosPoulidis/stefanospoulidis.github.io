@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Stefanos Poulidis"
   avatar           : "stefanos.jpeg"
-  bio              : "PhD Candidate, Decision Sciences, INSEAD"
+  bio              :
   location         : 
-  employer         : "INSEAD"
+  employer         :
   pubmed           : 
   googlescholar    : 
   email            : "stefanos.poulidis@insead.edu"

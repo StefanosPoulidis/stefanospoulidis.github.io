@@ -268,14 +268,7 @@ video {
 }
 
 .fieldwork-paper-grid--learning {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-}
-
-.fieldwork-card--newsletter {
-  grid-column: 1 / -1;
-  justify-self: center;
-  width: 100%;
-  max-width: calc((100% - 1rem) / 2);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .fieldwork-card {
@@ -539,12 +532,6 @@ video {
   .fieldwork-paper-grid--single,
   .fieldwork-paper-grid--learning {
     grid-template-columns: minmax(0, 1fr);
-  }
-
-  .fieldwork-card--newsletter {
-    grid-column: auto;
-    justify-self: stretch;
-    max-width: none;
   }
 
   .media-mention-grid {

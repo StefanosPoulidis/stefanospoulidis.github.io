@@ -69,6 +69,9 @@ require_pattern "_data/navigation.yml" 'Media Mentions' "media mentions navigati
 require_pattern "_data/navigation.yml" '#media-mentions' "media mentions navigation anchor"
 require_pattern "_data/navigation.yml" 'Awards' "awards navigation label"
 require_pattern "_data/navigation.yml" '/awards/' "awards navigation URL"
+reject_pattern "_pages/about.md" 'advancing both theory and managerial practice' "old homepage research paragraph"
+require_pattern "_pages/about.md" "Zone of Proximal Development" "homepage ZPD research framing"
+require_pattern "_pages/about.md" "uncharted waters|situational awareness" "homepage downstream decision research framing"
 
 require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*100%' "mobile overflow guard"
 require_pattern "_includes/head.html" 'main\.css\?v=\{\{ site\.time' "versioned main stylesheet link"

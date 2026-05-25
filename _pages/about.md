@@ -10,7 +10,9 @@ redirect_from:
 
 I am a fifth-year PhD student in Decision Sciences at INSEAD. I am immensely fortunate to be advised by [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
 
-My research examines how we should <em>design</em> and <em>govern</em> algorithms and AI to improve performance while preserving human skills. Methodologically, I study <em>human-AI systems</em> by integrating sequential decision-making modeling with behavioral experiments and industry collaborations. My goal is to address fundamental questions on the design and governance of human-AI systems, advancing both theory and managerial practice.
+My research studies how to design and govern human-AI systems that improve decision quality and productivity without weakening human learning, judgment, and skill development. Across behavioral and field experiments, industry collaborations, and mathematical modeling, I examine when AI guidance helps people make better decisions and when it backfires by substituting for effort, disrupting cognitive flow, or encouraging over-reliance. My work develops evidence-based principles for choosing the right form, timing, and limits of AI assistance in operational decision settings.
+
+My work highlights a central tension in human-AI collaboration: AI assistance that improves immediate performance can also reduce decision-makers' situational awareness in subsequent decisions, degrading future performance. AI help can also undermine learning when it replaces productive struggle within a learner's Zone of Proximal Development. My goal is to develop evidence-based frameworks for deploying AI in ways that improve productivity while sustaining the judgment, effort, and skill development that long-run performance depends on.
 
 Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo. 
 

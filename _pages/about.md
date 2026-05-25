@@ -107,12 +107,6 @@ behavioral operations, human-AI collaboration, AI governance, education operatio
 
 ## Media Mentions
 
-<div class="media-paper-links" aria-label="Related working papers">
-  <span>Related papers</span>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932" target="_blank">Self-Regulated AI Use Hinders Long-Term Learning</a>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584" target="_blank">Action vs. Attention Signals for Human-AI Collaboration</a>
-</div>
-
 <div class="media-mention-grid">
   <article class="media-mention-card">
     <a href="https://www.economist.com/business/2026/04/30/ai-and-the-danger-of-cognitive-surrender" target="_blank" class="media-mention-image-link">

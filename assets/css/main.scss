@@ -298,41 +298,11 @@ video {
   line-height: 1.45;
 }
 
-.media-paper-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem 0.6rem;
-  align-items: center;
-  margin: 0.15rem 0 1.15rem;
-  color: #52616f;
-  font-size: 0.86rem;
-}
-
-.media-paper-links span {
-  font-weight: 700;
-}
-
-.media-paper-links a {
-  display: inline-block;
-  padding: 0.28rem 0.55rem;
-  border: 1px solid #d3d9e0;
-  border-radius: 4px;
-  color: #2f3a45;
-  text-decoration: none;
-  background: #ffffff;
-}
-
-.media-paper-links a:hover {
-  border-color: #6f7f91;
-  color: #111827;
-  text-decoration: none;
-}
-
 .media-mention-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.2rem 1rem;
-  margin: 0.5rem 0 2.25rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem 0.85rem;
+  margin: 0.35rem 0 2.25rem;
 }
 
 .media-mention-card {

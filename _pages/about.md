@@ -116,3 +116,53 @@ behavioral operations, human-AI collaboration, AI governance, education operatio
     </figure>
   </div>
 </div>
+
+## Media Mentions
+
+<div class="media-paper-links" aria-label="Related working papers">
+  <span>Related papers</span>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932" target="_blank">Self-Regulated AI Use Hinders Long-Term Learning</a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584" target="_blank">Action vs. Attention Signals for Human-AI Collaboration</a>
+</div>
+
+<div class="media-mention-grid">
+  <article class="media-mention-card">
+    <a href="https://www.economist.com/business/2026/04/30/ai-and-the-danger-of-cognitive-surrender" target="_blank" class="media-mention-image-link">
+      <img src="{{ site.baseurl }}/assets/images/media/economist-ai-cognitive-surrender.png" alt="The Economist article titled AI and the danger of cognitive surrender">
+    </a>
+    <p class="media-mention-source">The Economist</p>
+    <h3><a href="https://www.economist.com/business/2026/04/30/ai-and-the-danger-of-cognitive-surrender" target="_blank">AI and the danger of cognitive surrender</a></h3>
+  </article>
+
+  <article class="media-mention-card">
+    <a href="https://knowledge.insead.edu/responsibility/how-demand-ai-assistance-undermines-learning" target="_blank" class="media-mention-image-link">
+      <img src="{{ site.baseurl }}/assets/images/media/insead-demand-ai-assistance.png" alt="INSEAD Knowledge article titled How On-Demand AI Assistance Undermines Learning">
+    </a>
+    <p class="media-mention-source">INSEAD Knowledge</p>
+    <h3><a href="https://knowledge.insead.edu/responsibility/how-demand-ai-assistance-undermines-learning" target="_blank">How On-Demand AI Assistance Undermines Learning</a></h3>
+  </article>
+
+  <article class="media-mention-card">
+    <a href="https://knowledge.wharton.upenn.edu/article/when-does-ai-assistance-undermine-learning/" target="_blank" class="media-mention-image-link">
+      <img src="{{ site.baseurl }}/assets/images/media/wharton-ai-assistance-learning.png" alt="Knowledge at Wharton article titled When Does AI Assistance Undermine Learning">
+    </a>
+    <p class="media-mention-source">Knowledge at Wharton</p>
+    <h3><a href="https://knowledge.wharton.upenn.edu/article/when-does-ai-assistance-undermine-learning/" target="_blank">When Does AI Assistance Undermine Learning?</a></h3>
+  </article>
+
+  <article class="media-mention-card">
+    <a href="https://knowledge.insead.edu/operations/should-ai-nudge-you-or-tell-you-what-do" target="_blank" class="media-mention-image-link">
+      <img src="{{ site.baseurl }}/assets/images/media/insead-ai-nudge.png" alt="INSEAD Knowledge article titled Should AI Nudge You or Tell You What to Do">
+    </a>
+    <p class="media-mention-source">INSEAD Knowledge</p>
+    <h3><a href="https://knowledge.insead.edu/operations/should-ai-nudge-you-or-tell-you-what-do" target="_blank">Should AI Nudge You or Tell You What to Do?</a></h3>
+  </article>
+
+  <article class="media-mention-card">
+    <a href="https://x.com/FIDE_chess/status/1751912810705977839?s=20" target="_blank" class="media-mention-image-link">
+      <img src="{{ site.baseurl }}/assets/images/FIDE_post.png" alt="FIDE communication about the human-AI chess experiment">
+    </a>
+    <p class="media-mention-source">FIDE</p>
+    <h3><a href="https://x.com/FIDE_chess/status/1751912810705977839?s=20" target="_blank">Communication on the human-AI chess experiment</a></h3>
+  </article>
+</div>

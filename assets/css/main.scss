@@ -256,8 +256,10 @@ video {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
-.fieldwork-paper-grid--learning .fieldwork-card:last-child {
+.fieldwork-card--newsletter {
   grid-column: 1 / -1;
+  justify-self: center;
+  max-width: 440px;
 }
 
 .fieldwork-card {
@@ -447,8 +449,10 @@ video {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  .fieldwork-paper-grid--learning .fieldwork-card:last-child {
+  .fieldwork-card--newsletter {
     grid-column: auto;
+    justify-self: stretch;
+    max-width: none;
   }
 
   .media-mention-grid {

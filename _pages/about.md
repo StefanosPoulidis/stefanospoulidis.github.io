@@ -98,7 +98,7 @@ behavioral operations, human-AI collaboration, AI governance, education operatio
       <img src="{{ site.baseurl }}/assets/images/chess_academies_3.jpeg" alt="Chess academy students after the training study">
       <figcaption>Wrapping up the study with chess-themed stickers.</figcaption>
     </figure>
-    <figure class="fieldwork-card">
+    <figure class="fieldwork-card fieldwork-card--newsletter">
       <img src="{{ site.baseurl }}/assets/images/chessed.png" alt="Chess-in-Education newsletter feature for the chess-training study">
       <figcaption>The chess-training study featured in the Chess-in-Education newsletter.</figcaption>
     </figure>

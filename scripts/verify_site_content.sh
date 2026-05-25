@@ -72,6 +72,8 @@ require_pattern "assets/css/main.scss" 'flex-wrap:[[:space:]]*wrap' "mobile nav 
 require_pattern "assets/css/main.scss" 'fieldwork-paper' "fieldwork paper grouping styles"
 require_pattern "assets/css/main.scss" 'font-size:[[:space:]]*0\.95rem' "larger fieldwork captions"
 require_pattern "assets/css/main.scss" 'fieldwork-paper-grid--learning' "larger self-regulated fieldwork gallery"
+require_pattern "assets/css/main.scss" 'fieldwork-card--newsletter' "smaller newsletter fieldwork card"
+require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*440px' "newsletter image width cap"
 require_pattern "assets/css/main.scss" 'media-mention-grid' "media mention grid styles"
 require_pattern "assets/css/main.scss" 'media-paper-links' "related paper link styles"
 
@@ -79,6 +81,7 @@ require_pattern "_pages/about.md" 'fieldwork-paper' "fieldwork paper grouping ma
 require_pattern "_pages/about.md" 'AI Field Deployments' "AI field deployments section heading"
 require_pattern "_pages/about.md" 'Self-Regulated AI Use' "Self-regulated fieldwork group"
 require_pattern "_pages/about.md" 'fieldwork-paper-grid--learning' "Self-regulated gallery modifier"
+require_pattern "_pages/about.md" 'fieldwork-card--newsletter' "newsletter fieldwork modifier"
 reject_pattern "_pages/about.md" 'fieldwork-paper__label">Action vs\. Attention Signals|FIDE officially communicated the study' "FIDE fieldwork block"
 reject_pattern "_pages/about.md" 'External communication and research visibility|Chess academies, student training, and dissemination|grouped with' "fieldwork explanatory blurbs"
 reject_pattern "_pages/about.md" 'swiper-container' "carousel markup"

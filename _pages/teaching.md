@@ -11,12 +11,6 @@ author_profile: true
     <p>
       I built a companion platform for the INSEAD MBA core course in Process &amp; Operations Management. The platform organizes tutorial sessions around process improvement, queues and variability, newsvendor models, and exam preparation, with recordings, slides, review sheets, worked solutions, interactive practice problems, and past-exam material.
     </p>
-    <div class="teaching-platform__facts" aria-label="POM Tutorials features">
-      <span>5 tutorial sessions</span>
-      <span>Recordings and slides</span>
-      <span>Worked practice problems</span>
-      <span>Past-exam preparation</span>
-    </div>
     <p class="teaching-actions">
       <a href="https://stefanospoulidis.github.io/pom-tutorials/" target="_blank" class="pub-btn">Open POM Tutorials</a>
     </p>

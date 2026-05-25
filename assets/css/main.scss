@@ -59,7 +59,8 @@ video {
 #main,
 .sidebar,
 .masthead__inner-wrap,
-.greedy-nav {
+.greedy-nav,
+.site-nav-static {
   max-width: 100%;
 }
 
@@ -112,6 +113,30 @@ video {
 .author__urls:before,
 .author__urls:after {
   display: none;
+}
+
+.site-nav-static {
+  background: #fff;
+}
+
+.site-nav-static .visible-links {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.site-nav-static a {
+  display: block;
+  padding: 0.5rem 0;
+  color: #7a8288;
+  text-decoration: none;
+}
+
+.site-nav-static a:hover {
+  color: #494e52;
 }
 
 .cv-link,
@@ -332,17 +357,13 @@ video {
     overflow-x: visible;
   }
 
-  .greedy-nav {
+  .site-nav-static {
     min-width: 0;
     width: 100%;
     overflow: visible;
   }
 
-  .greedy-nav button {
-    display: none;
-  }
-
-  .greedy-nav .visible-links {
+  .site-nav-static .visible-links {
     display: flex;
     flex-wrap: wrap;
     gap: 0 1rem;
@@ -350,11 +371,11 @@ video {
     min-width: 0;
   }
 
-  .greedy-nav .visible-links li {
+  .site-nav-static .visible-links li {
     display: block;
   }
 
-  .greedy-nav a {
+  .site-nav-static a {
     margin: 0;
     padding: 0.35rem 0;
   }

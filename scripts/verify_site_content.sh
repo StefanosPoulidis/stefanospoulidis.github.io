@@ -43,6 +43,8 @@ require_pattern "_config.yml" '^[[:space:]]+- scripts$' "verification scripts ex
 
 reject_pattern "_includes/author-profile.html" 'btn btn--inverse">Follow' "empty Follow button"
 reject_pattern "_includes/author-profile.html" 'class="author__avatar" alt="\{\{ author.name \}\}" class="profile-photo"' "duplicate avatar class attribute"
+require_pattern "_includes/masthead.html" 'class="site-nav-static"' "static wrapped masthead navigation"
+reject_pattern "_includes/masthead.html" 'hidden-links hidden|navicon' "greedy nav controls"
 reject_pattern "_includes/head.html" 'swiper' "unused Swiper dependency"
 reject_pattern "_includes/footer.html" 'Swiper|swiper' "unused Swiper initialization"
 

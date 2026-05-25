@@ -6,6 +6,8 @@ main:
     url: "#ai-field-deployments"
   - title: "Media Mentions"
     url: "#media-mentions"
+  - title: "Awards"
+    url: "/awards/"
   - title: "Teaching"
     url: "/teaching/"
   - title: "CV"

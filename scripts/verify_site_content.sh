@@ -61,6 +61,8 @@ require_pattern "_data/navigation.yml" 'AI Field Deployments' "AI field deployme
 require_pattern "_data/navigation.yml" '#ai-field-deployments' "AI field deployments navigation anchor"
 require_pattern "_data/navigation.yml" 'Media Mentions' "media mentions navigation label"
 require_pattern "_data/navigation.yml" '#media-mentions' "media mentions navigation anchor"
+require_pattern "_data/navigation.yml" 'Awards' "awards navigation label"
+require_pattern "_data/navigation.yml" '/awards/' "awards navigation URL"
 
 require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*100%' "mobile overflow guard"
 require_pattern "assets/css/main.scss" '^\.author__urls-wrapper,' "author URL wrapper override"
@@ -95,6 +97,13 @@ require_path "assets/images/media/insead-ai-nudge.png" "INSEAD nudge screenshot"
 
 require_pattern "_pages/teaching.md" 'https://stefanospoulidis.github.io/pom-tutorials/' "POM Tutorials link"
 require_pattern "_pages/cv.md" '/files/Stefanos_Poulidis_CV\.pdf' "CV page points to existing PDF path"
+require_pattern "_pages/awards.md" 'permalink:[[:space:]]*/awards/' "awards page permalink"
+require_pattern "_pages/awards.md" 'Best Paper.*AOM Annual Meeting MED Division' "AOM best paper award"
+require_pattern "_pages/awards.md" 'INFORMS Decision Analysis Society Student Paper Award' "DAS student paper award"
+require_pattern "_pages/awards.md" 'INFORMS TIMES Working Paper Award' "TIMES working paper award"
+require_pattern "_pages/awards.md" 'Wharton-INSEAD Alliance Research Grant' "Wharton-INSEAD grants"
+require_pattern "_pages/awards.md" 'Forbes 30 Under 30' "Forbes award"
+reject_pattern "_pages/about.md" '^## Awards' "homepage awards section"
 
 reject_path "_posts/2012-08-14-blog-post-1.md" "sample blog post"
 reject_path "_posts/2013-08-14-blog-post-2.md" "sample blog post"

@@ -148,6 +148,12 @@ video {
   color: #494e52;
 }
 
+@media (min-width: 768px) {
+  .site-nav-static .visible-links {
+    padding-left: clamp(11rem, 17vw, 14rem);
+  }
+}
+
 .cv-link,
 .pub-btn {
   display: inline-block;
@@ -476,6 +482,7 @@ video {
     gap: 0 1rem;
     width: 100%;
     min-width: 0;
+    padding-left: 0;
   }
 
   .site-nav-static .visible-links li {

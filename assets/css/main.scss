@@ -40,169 +40,294 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
-#research {
-  margin: 2em 0;
-  padding: 2em 0;
-}
-
-#research h1 {
-  font-size: 2.5rem;
-  color: #2c3e50;
-  margin-bottom: 1.5rem;
-}
-
-.project-item {
-  margin-bottom: 2em;
-}
-
-.project-item h3 {
-  font-size: 1.8rem;
-  font-weight: bold;
-}
-
-.project-item img {
+html,
+body {
   max-width: 100%;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow-x: hidden;
 }
 
-.project-item p {
-  color: #555;
-  line-height: 1.6;
+img,
+iframe,
+video {
+  max-width: 100%;
+  height: auto;
 }
 
-.btn {
-  margin-top: 1em;
+.page,
+.archive,
+.page__content,
+#main,
+.sidebar {
+  max-width: 100%;
 }
 
+.page__content,
+.archive {
+  overflow-wrap: break-word;
+}
 
 .profile-photo {
-    max-width: 350px; /* Increased size */
-    border-radius: 50%; /* Circular shape */
-    display: block;
-    margin: 0 auto 30px; /* Centers photo and adds space below */
+  display: block;
+  max-width: 260px;
+  margin: 0 auto 1.5rem;
+  border-radius: 50%;
 }
 
 .contact-label {
-    text-align: center;
-    font-size: 1.2em; /* Slightly larger font */
-    font-weight: bold;
-    margin: 10px 0; /* Adds space above and below */
-    color: #333;
+  margin: 0.75rem 0 0.25rem;
+  color: #333;
+  font-size: 0.95rem;
+  font-weight: bold;
+  text-align: center;
 }
 
 .contact-email {
-    text-align: center;
-    font-size: 1.1em;
-    color: #333;
+  color: #333;
+  font-size: 0.9rem;
+  text-align: center;
 }
 
 .contact-email a {
-    text-decoration: none;
-    color: #007bff; /* Link color */
-    font-weight: bold;
+  color: #2f5f8f;
+  font-weight: bold;
+  text-decoration: none;
 }
 
-.pub-image {
-    position: absolute;
-    top: 0; /* Aligns with the top of the publication */
-    right: 10; /* Pushes it to the right */
-    width: 250px; /* Adjust image size */
-    border-radius: 5px;
+.cv-link,
+.pub-btn,
+.teaching-cta {
+  display: inline-block;
+  border: 1px solid #7b8794;
+  border-radius: 4px;
+  background: #fff;
+  color: #243447;
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none;
 }
 
-.pub-image img {
-    width: 100%; /* Ensures it scales correctly */
+.cv-link {
+  padding: 0.35rem 0.65rem;
 }
-
 
 .pub-btn {
-    display: inline-block;
-    margin: 5px;
-    padding: 6px 10px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    text-decoration: none;
-    font-size: 13px;
+  margin: 0 0.35rem 0.35rem 0;
+  padding: 0.45rem 0.7rem;
+  cursor: pointer;
 }
 
-.pub-btn:hover {
-    background-color: #0056b3;
+.cv-link:hover,
+.pub-btn:hover,
+.teaching-cta:hover {
+  border-color: #2f5f8f;
+  color: #2f5f8f;
+  text-decoration: none;
+}
+
+.research-list {
+  margin-top: 1.25rem;
+}
+
+.research-item {
+  padding: 1.15rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.research-item:first-child {
+  padding-top: 0;
+}
+
+.research-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.research-authors,
+.paper-status {
+  margin: 0.2rem 0;
+  color: #3f4650;
+}
+
+.paper-status {
+  font-size: 0.92rem;
+}
+
+.pub-awards {
+  margin: 0.7rem 0;
+  padding-left: 1.25rem;
+}
+
+.pub-actions {
+  margin: 0.75rem 0 0;
 }
 
 .pub-abstract {
-    display: none;
-    padding: 10px;
-    margin-top: 5px;
-    border-left: 4px solid #007bff;
-    background-color: #f8f9fa;
-    font-size: 14px;
+  display: none;
+  margin-top: 0.85rem;
+  padding: 0.85rem 1rem;
+  border-left: 3px solid #6f7f91;
+  background-color: #f8fafc;
+  color: #2f3a45;
+  font-size: 0.9rem;
 }
 
-h4 {  /* Titles */
-    font-size: 17px;
-    font-weight: bold;
+.research-item--compact {
+  padding: 0.85rem 0;
 }
 
-small {  /* Author names */
-    font-size: 14px;
+.fieldwork-paper {
+  margin: 1.5rem 0 2.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid #e5e7eb;
 }
 
-
-.pub-container {
-    display: flex;
-    justify-content: space-between; /* Ensures text and image are separate */
-    align-items: flex-start;
-    gap: 60px;
+.fieldwork-paper__label {
+  margin: 0 0 0.35rem;
+  color: #52616f;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
-.pub-container .pub-content {
-    flex: 2;
+.fieldwork-paper h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
 }
 
-.pub-container .pub-image {
-    flex: 1.5; /* Gives more space to the image */
-    text-align: right;
+.fieldwork-paper__text p:last-child {
+  margin-bottom: 1rem;
 }
 
-.pub-container .pub-image img {
-    width: 600px; /* Doubled the image size */
-    border-radius: 10px;
+.fieldwork-paper-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
 }
 
-.fieldwork-carousel {
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 20px;
+.fieldwork-paper-grid--single {
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 560px;
 }
 
-.swiper-container {
-    width: 100%;
-    height: auto; /* Allow images to determine height */
+.fieldwork-card {
+  margin: 0;
 }
 
-.swiper-slide {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+.fieldwork-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid #d9dee4;
+  border-radius: 6px;
+  background: #f5f7f9;
 }
 
-.swiper-slide img {
-    max-width: 100%;
-    max-height: 400px;
-    object-fit: contain;
-    border-radius: 8px;
+.fieldwork-paper-grid--single .fieldwork-card img {
+  aspect-ratio: auto;
+  object-fit: contain;
 }
 
-.swiper-caption {
-    margin-top: 10px;
-    font-size: 12px;
-    color: #333;
-    font-style: italic;
-    max-width: 85%;
+.fieldwork-card figcaption {
+  margin-top: 0.45rem;
+  color: #3f4650;
+  font-size: 0.78rem;
+  line-height: 1.35;
+}
+
+.teaching-intro {
+  margin-bottom: 1.5rem;
+}
+
+.teaching-feature {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.25rem;
+  margin: 1rem 0 2rem;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid #d9dee4;
+  border-radius: 6px;
+  background: #f8fafc;
+}
+
+.teaching-feature h2 {
+  margin: 0.15rem 0 0.4rem;
+  font-size: 1.15rem;
+}
+
+.teaching-feature__meta,
+.teaching-course__meta {
+  margin: 0;
+  color: #52616f;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.teaching-feature__body p:last-child {
+  margin-bottom: 0;
+}
+
+.teaching-cta {
+  flex: 0 0 auto;
+  padding: 0.55rem 0.8rem;
+  white-space: nowrap;
+}
+
+.teaching-course-list {
+  margin: 0.8rem 0 1.75rem;
+}
+
+.teaching-course {
+  padding: 0.95rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.teaching-course h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+}
+
+.teaching-course p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  #main {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+
+  .masthead__menu {
+    overflow-x: auto;
+  }
+
+  .masthead__menu-item {
+    white-space: nowrap;
+  }
+
+  .profile-photo {
+    max-width: 210px;
+  }
+
+  .fieldwork-paper-grid,
+  .fieldwork-paper-grid--single {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .teaching-feature {
+    display: block;
+  }
+
+  .teaching-cta {
+    margin-top: 0.9rem;
+    white-space: normal;
+  }
 }

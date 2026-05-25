@@ -2,8 +2,6 @@
 main:
   - title: "Research"
     url: "#research"
-  - title: "AI Field Deployments"
-    url: "#ai-field-deployments"
   - title: "Media Mentions"
     url: "#media-mentions"
   - title: "Awards"

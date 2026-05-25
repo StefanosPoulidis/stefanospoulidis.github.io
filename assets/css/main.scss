@@ -348,13 +348,6 @@ video {
   text-decoration: underline;
 }
 
-.teaching-lede {
-  margin: 0 0 1.35rem;
-  color: #2f3a45;
-  font-size: 1.02rem;
-  line-height: 1.65;
-}
-
 .teaching-platform {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(240px, 0.78fr);
@@ -444,9 +437,8 @@ video {
 }
 
 .teaching-course__meta {
-  margin: 0 0 0.55rem;
   color: #52616f;
-  font-size: 0.9rem;
+  font-size: 0.9em;
   font-weight: 600;
 }
 

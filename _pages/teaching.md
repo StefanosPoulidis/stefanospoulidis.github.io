@@ -5,13 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<p class="teaching-lede">
-My teaching focuses on operations management, analytics, programming, and the design of learning environments that help students move from formulas to judgment. I have taught across MBA and engineering programs, with materials that emphasize worked examples, structured practice, and clear links between technical tools and managerial decisions.
-</p>
-
 <section class="teaching-platform">
   <div class="teaching-platform__body">
-    <p class="teaching-platform__label">Tutorial Platform</p>
     <h2>POM Tutorials</h2>
     <p>
       I built a companion platform for the INSEAD MBA core course in Process &amp; Operations Management. The platform organizes tutorial sessions around process improvement, queues and variability, newsvendor models, and exam preparation, with recordings, slides, review sheets, worked solutions, interactive practice problems, and past-exam material.
@@ -35,8 +30,7 @@ My teaching focuses on operations management, analytics, programming, and the de
 
 <div class="teaching-course-list">
   <section class="teaching-course">
-    <h3>Processes &amp; Operations Management</h3>
-    <p class="teaching-course__meta">INSEAD MBA core course, 2024, 2026</p>
+    <h3>Processes &amp; Operations Management, <span class="teaching-course__meta">INSEAD MBA core course, 2024, 2026</span></h3>
     <p>
       Core operations course covering process analysis, bottlenecks, capacity, queues, variability, inventory, and operational tradeoffs. My tutorials help students translate analytical frameworks into structured problem-solving routines.
     </p>
@@ -47,24 +41,21 @@ My teaching focuses on operations management, analytics, programming, and the de
   </section>
 
   <section class="teaching-course">
-    <h3>Data Science for Business</h3>
-    <p class="teaching-course__meta">INSEAD MBA elective, 2023</p>
+    <h3>Data Science for Business, <span class="teaching-course__meta">INSEAD MBA elective, 2023</span></h3>
     <p>
       MBA elective on advanced machine learning and analytics techniques for business applications, with emphasis on how managers can interpret, evaluate, and use data-driven tools.
     </p>
   </section>
 
   <section class="teaching-course">
-    <h3>Programming Techniques</h3>
-    <p class="teaching-course__meta">National Technical University of Athens, 2015-2017</p>
+    <h3>Programming Techniques, <span class="teaching-course__meta">National Technical University of Athens, 2015-2017</span></h3>
     <p>
       Undergraduate core course on data structures and object-oriented programming for engineering students.
     </p>
   </section>
 
   <section class="teaching-course">
-    <h3>Computer Programming</h3>
-    <p class="teaching-course__meta">National Technical University of Athens, 2015-2017</p>
+    <h3>Computer Programming, <span class="teaching-course__meta">National Technical University of Athens, 2015-2017</span></h3>
     <p>
       Undergraduate core course on programming fundamentals, algorithmic thinking, and problem-solving.
     </p>

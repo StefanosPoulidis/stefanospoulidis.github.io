@@ -50,6 +50,7 @@ require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*100%' "mobile over
 require_pattern "assets/css/main.scss" '^\.author__urls-wrapper,' "author URL wrapper override"
 require_pattern "assets/css/main.scss" '^\.author__urls \{' "author URL list override"
 require_pattern "assets/css/main.scss" 'float:[[:space:]]*none' "mobile layout float reset"
+require_pattern "assets/css/main.scss" 'flex-wrap:[[:space:]]*wrap' "mobile nav wraps instead of widening page"
 require_pattern "assets/css/main.scss" 'fieldwork-paper' "fieldwork paper grouping styles"
 require_pattern "assets/css/main.scss" 'teaching-feature' "teaching feature styles"
 

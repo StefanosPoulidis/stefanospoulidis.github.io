@@ -329,17 +329,43 @@ video {
   }
 
   .masthead__menu {
-    overflow-x: auto;
+    overflow-x: visible;
   }
 
-  .greedy-nav,
-  .greedy-nav .visible-links {
+  .greedy-nav {
     min-width: 0;
-    width: max-content;
+    width: 100%;
+    overflow: visible;
+  }
+
+  .greedy-nav button {
+    display: none;
+  }
+
+  .greedy-nav .visible-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 1rem;
+    width: 100%;
+    min-width: 0;
+  }
+
+  .greedy-nav .visible-links li {
+    display: block;
+  }
+
+  .greedy-nav a {
+    margin: 0;
+    padding: 0.35rem 0;
   }
 
   .masthead__menu-item {
     white-space: nowrap;
+  }
+
+  .masthead__menu-item--lg {
+    width: 100%;
+    padding-right: 0;
   }
 
   .sidebar,

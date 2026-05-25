@@ -56,6 +56,8 @@ reject_pattern "_includes/author-profile.html" 'btn btn--inverse">Follow' "empty
 reject_pattern "_includes/author-profile.html" 'class="author__avatar" alt="\{\{ author.name \}\}" class="profile-photo"' "duplicate avatar class attribute"
 require_pattern "_includes/author-profile.html" 'author__name author__name--under-avatar' "author name under avatar"
 reject_pattern "_includes/author-profile.html" '<h3 class="author__name">\{\{ author.name \}\}</h3>' "author name below contact block"
+require_pattern "_includes/author-profile.html" 'class="contact-email"' "visible sidebar contact email"
+reject_pattern "_includes/author-profile.html" 'author\.email|email_label[[:space:]]*\|[[:space:]]*default:[[:space:]]*"Email"|fa-envelope' "duplicate sidebar email social link"
 require_pattern "_includes/masthead.html" 'class="site-nav-static"' "static wrapped masthead navigation"
 require_pattern "_includes/masthead.html" '<a href="\{\{ base_path \}\}/">Home</a>' "Home masthead link"
 reject_pattern "_includes/masthead.html" 'masthead__menu-item--lg|\{\{ site.title \}\}' "site title masthead item"

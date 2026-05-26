@@ -91,6 +91,15 @@ behavioral operations, human-AI collaboration, AI governance, education operatio
   <div class="fieldwork-paper__text">
     <p class="fieldwork-paper__label">Self-Regulated AI Use Hinders Long-Term Learning</p>
   </div>
+  <figure class="fieldwork-platform">
+    <a href="https://stefanospoulidis.github.io/aichesstraining/" target="_blank" class="fieldwork-platform__image-link">
+      <img src="{{ site.baseurl }}/assets/images/ai-chess-training-platform.jpg" alt="AI-enabled chess training platform homepage">
+    </a>
+    <figcaption>
+      <strong><a href="https://stefanospoulidis.github.io/aichesstraining/" target="_blank">AI-enabled chess training platform</a></strong>
+      Static preview of the training platform used in the chess field deployment.
+    </figcaption>
+  </figure>
   <div class="fieldwork-paper-grid fieldwork-paper-grid--learning">
     <figure class="fieldwork-card">
       <img src="{{ site.baseurl }}/assets/images/chess_kids.jpg" alt="Presentation of the chess-training platform at chess academies">

@@ -271,6 +271,52 @@ video {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.fieldwork-platform {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(220px, 0.75fr);
+  gap: 1rem;
+  align-items: center;
+  margin: 0.25rem 0 1.25rem;
+}
+
+.fieldwork-platform__image-link {
+  display: block;
+}
+
+.fieldwork-platform img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: top center;
+  border: 1px solid #d9dee4;
+  border-radius: 6px;
+  background: #f5f7f9;
+}
+
+.fieldwork-platform figcaption {
+  margin: 0;
+  color: #3f4650;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.fieldwork-platform strong {
+  display: block;
+  margin-bottom: 0.3rem;
+  color: #243447;
+  font-size: 1rem;
+}
+
+.fieldwork-platform a {
+  color: #243447;
+  text-decoration: none;
+}
+
+.fieldwork-platform a:hover {
+  text-decoration: underline;
+}
+
 .fieldwork-card {
   margin: 0;
 }
@@ -531,6 +577,10 @@ video {
   .fieldwork-paper-grid,
   .fieldwork-paper-grid--single,
   .fieldwork-paper-grid--learning {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .fieldwork-platform {
     grid-template-columns: minmax(0, 1fr);
   }
 

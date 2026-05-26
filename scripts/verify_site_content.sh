@@ -103,6 +103,8 @@ require_pattern "_pages/about.md" 'AI Field Deployments' "AI field deployments s
 require_pattern "_pages/about.md" 'Self-Regulated AI Use' "Self-regulated fieldwork group"
 require_pattern "_pages/about.md" 'https://stefanospoulidis.github.io/aichesstraining/' "AI chess training platform link"
 require_pattern "_pages/about.md" 'ai-chess-training-platform\.jpg' "AI chess training platform screenshot"
+require_pattern "_pages/about.md" 'AI-generated feedback shapes chess training, practice behavior, and skill development' "AI chess training platform research caption"
+reject_pattern "_pages/about.md" 'Static preview of the training platform' "old static platform caption"
 require_pattern "_pages/about.md" 'fieldwork-paper-grid--learning' "Self-regulated gallery modifier"
 reject_pattern "_pages/about.md" 'fieldwork-card--newsletter' "newsletter fieldwork modifier"
 reject_pattern "_pages/about.md" 'fieldwork-paper__label">Action vs\. Attention Signals|FIDE officially communicated the study' "FIDE fieldwork block"

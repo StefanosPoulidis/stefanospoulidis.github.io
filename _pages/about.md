@@ -97,7 +97,7 @@ behavioral operations, human-AI collaboration, AI governance, education operatio
     </a>
     <figcaption>
       <strong><a href="https://stefanospoulidis.github.io/aichesstraining/" target="_blank">AI-enabled chess training platform</a></strong>
-      Static preview of the training platform used in the chess field deployment.
+      A custom research platform used to study how AI-generated feedback shapes chess training, practice behavior, and skill development.
     </figcaption>
   </figure>
   <div class="fieldwork-paper-grid fieldwork-paper-grid--learning">

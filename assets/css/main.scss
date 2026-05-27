@@ -470,6 +470,17 @@ video {
   font-weight: 600;
 }
 
+.teaching-course__evaluation {
+  display: inline-block;
+  margin: 0 0 0.55rem;
+  padding: 0.18rem 0.55rem;
+  border-left: 3px solid #7a8f3a;
+  background: #f4f7ed;
+  color: #38451d;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
 .teaching-course p,
 .teaching-material p {
   margin-bottom: 0.65rem;

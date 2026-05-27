@@ -134,7 +134,7 @@ reject_pattern "assets/css/main.scss" 'teaching-platform__facts' "removed POM Tu
 reject_pattern "_pages/teaching.md" 'My teaching focuses on operations management|Tutorial Platform' "removed teaching lede and platform label"
 reject_pattern "assets/css/main.scss" 'teaching-lede' "removed teaching lede styles"
 require_pattern "_pages/teaching.md" 'Processes &amp; Operations Management, <span class="teaching-course__meta">INSEAD MBA core course, 2024, 2026</span>' "POM course title and meta on one line"
-require_pattern "_pages/teaching.md" '2026 tutorial evaluation:</strong> 4.73/5' "POM 2026 tutorial evaluation"
+require_pattern "_pages/teaching.md" '2026 teaching evaluation:</strong> 4.73/5' "POM 2026 teaching evaluation"
 require_pattern "_pages/teaching.md" 'Data Science for Business' "data science course"
 require_pattern "_pages/teaching.md" 'Programming Techniques' "programming techniques course"
 require_pattern "_pages/teaching.md" 'Computer Programming' "computer programming course"

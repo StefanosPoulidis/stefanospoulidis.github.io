@@ -25,7 +25,7 @@ author_profile: true
 <div class="teaching-course-list">
   <section class="teaching-course">
     <h3>Processes &amp; Operations Management, <span class="teaching-course__meta">INSEAD MBA core course, 2024, 2026</span></h3>
-    <p class="teaching-course__evaluation"><strong>2026 tutorial evaluation:</strong> 4.73/5.</p>
+    <p class="teaching-course__evaluation"><strong>2026 teaching evaluation:</strong> 4.73/5.</p>
     <p>
       Core operations course covering process analysis, bottlenecks, capacity, queues, variability, inventory, and operational tradeoffs. My tutorials help students translate analytical frameworks into structured problem-solving routines.
     </p>

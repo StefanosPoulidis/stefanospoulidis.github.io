@@ -14,7 +14,7 @@ My research studies how to design and govern human-AI systems that improve decis
 
 My work highlights a central tension in human-AI collaboration: AI assistance that improves immediate performance can also reduce decision-makers' situational awareness in subsequent decisions, degrading performance. It has also shown that AI help can undermine long-term learning when it replaces productive struggle within a learner's Zone of Proximal Development. My goal is to develop evidence-based frameworks that help teams and organizations deploy AI in ways that improve productivity while sustaining human judgment and skill development over time.
 
-Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition on the Forbes 30 Under 30 list for Greece. I also contributed to women’s economic development through my public policy and education roles at MExoxo. 
+Prior to my PhD, I embarked on an entrepreneurial journey, earning recognition on the <a href="https://www.forbesgreece.gr/forbes-30-under-30-2021/3497509/stefanos-stib-poulidis" target="_blank" rel="noopener">Forbes 30 Under 30</a> list for Greece. I also contributed to women’s economic development through my public policy and education roles at <a href="https://www.mexoxo.com/" target="_blank" rel="noopener">MExoxo</a>.
 
 I hold a B.S. and M.S. in Electrical and Computer Engineering from the National Technical University of Athens. 
 

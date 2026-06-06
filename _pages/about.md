@@ -57,6 +57,10 @@ behavioral operations, human-AI collaboration, AI governance, education operatio
     <h3><strong>Self-Regulated AI Use Hinders Long-Term Learning</strong></h3>
     <p class="research-authors">with Hamsa Bastani and Osbert Bastani</p>
 
+    <ul class="pub-awards">
+      <li><em>Best Paper</em>, AOM Annual Meeting MED Division, 2026</li>
+    </ul>
+
     <p class="pub-actions">
       <button onclick="toggleAbstract('abstract2')" class="pub-btn">Abstract</button>
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932" target="_blank" class="pub-btn">Working Paper</a>

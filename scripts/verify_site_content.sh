@@ -75,6 +75,7 @@ require_pattern "_pages/about.md" "uncharted waters|situational awareness" "home
 require_pattern "_pages/about.md" "teams and organizations deploy AI" "homepage teams and organizations framing"
 require_pattern "_pages/about.md" 'forbesgreece\.gr/forbes-30-under-30-2021/3497509/stefanos-stib-poulidis' "homepage Forbes link"
 require_pattern "_pages/about.md" 'https://www\.mexoxo\.com/' "homepage MExoxo link"
+require_pattern "_pages/about.md" 'Best Paper.*AOM Annual Meeting MED Division, 2026' "homepage Self-Regulated paper award"
 
 require_pattern "assets/css/main.scss" 'max-width:[[:space:]]*100%' "mobile overflow guard"
 require_pattern "_includes/head.html" 'main\.css\?v=\{\{ site\.time' "versioned main stylesheet link"

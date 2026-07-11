@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student in Decision Sciences at INSEAD. I am immensely fortunate to be advised by [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
+I am a PhD candidate in Decision Sciences at INSEAD. I am immensely fortunate to be advised by [Hamsa Bastani](https://hamsabastani.github.io/index.html) and [Spyros Zoumpoulis](https://www.insead.edu/faculty-personal-site/spyros-zoumpoulis/research).
 
 My research studies how to design and govern human-AI systems that improve decision quality and performance without weakening human learning. Across behavioral and field experiments, industry collaborations, and mathematical modeling, I examine when AI guidance helps people make better decisions and when it backfires by substituting for effort, disrupting cognitive flow, or encouraging over-reliance.
 
@@ -56,6 +56,7 @@ human-AI collaboration, information design, human capital development, digital p
   <section class="research-item">
     <h3><strong>Self-Regulated AI Use Hinders Long-Term Learning</strong></h3>
     <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Osbert Bastani</p>
+    <p class="paper-status paper-status--jmp">Job Market Paper</p>
 
     <ul class="pub-awards">
       <li><em>Best Paper</em>, AOM Annual Meeting MED Division, 2026</li>

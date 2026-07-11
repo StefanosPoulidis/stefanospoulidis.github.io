@@ -78,8 +78,12 @@ human-AI collaboration, information design, human capital development, digital p
 
 
   <section class="research-item research-item--compact">
-    <h3><strong>When Anyone Can Build: Curation, AI Fluency, and Use-Side Governance in AI Skill Ecosystems</strong></h3>
+    <h3><strong>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</strong></h3>
     <p class="research-authors">with Leonard Boussioux</p>
+  </section>
+
+  <section class="research-item research-item--compact">
+    <h3><strong>When More AI Preserves Capability: Component Selection in Human-AI Workflows</strong></h3>
   </section>
 
   <section class="research-item research-item--compact">

@@ -34,7 +34,7 @@ human-AI collaboration, information design, human capital development, digital p
 <div class="research-list">
   <section class="research-item">
     <h3><strong>Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</strong></h3>
-    <p class="research-authors">with Haosen Ge, Hamsa Bastani, and Osbert Bastani</p>
+    <p class="research-authors"><strong>Stefanos Poulidis</strong>, Haosen Ge, Hamsa Bastani, and Osbert Bastani</p>
 
     <p class="paper-status"><em>Major Revision</em>, <strong>Management Science</strong></p>
 
@@ -55,7 +55,7 @@ human-AI collaboration, information design, human capital development, digital p
 
   <section class="research-item">
     <h3><strong>Self-Regulated AI Use Hinders Long-Term Learning</strong></h3>
-    <p class="research-authors">with Hamsa Bastani and Osbert Bastani</p>
+    <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Osbert Bastani</p>
 
     <ul class="pub-awards">
       <li><em>Best Paper</em>, AOM Annual Meeting MED Division, 2026</li>
@@ -73,22 +73,23 @@ human-AI collaboration, information design, human capital development, digital p
 
   <section class="research-item research-item--compact">
     <h3><strong>Generative AI Workflows at Work</strong></h3>
-    <p class="research-authors">with Hamsa Bastani and Spyros Zoumpoulis</p>
+    <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Spyros Zoumpoulis</p>
   </section>
 
 
   <section class="research-item research-item--compact">
     <h3><strong>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</strong></h3>
-    <p class="research-authors">with Leonard Boussioux</p>
+    <p class="research-authors">Leonard Boussioux and <strong>Stefanos Poulidis</strong></p>
   </section>
 
   <section class="research-item research-item--compact">
     <h3><strong>When More AI Preserves Capability: Component Selection in Human-AI Workflows</strong></h3>
+    <p class="research-authors"><strong>Stefanos Poulidis</strong></p>
   </section>
 
   <section class="research-item research-item--compact">
     <h3><strong>State-Coded AI Signals Under Load: Evidence from Virtual Sitting</strong></h3>
-    <p class="research-authors">with Blair Liu</p>
+    <p class="research-authors">Blair Liu and <strong>Stefanos Poulidis</strong></p>
   </section>
 </div>
 

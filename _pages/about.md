@@ -78,9 +78,18 @@ human-AI collaboration, information design, human capital development, digital p
   </section>
 
 
-  <section class="research-item research-item--compact">
+  <section class="research-item">
     <h3><strong>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</strong></h3>
     <p class="research-authors">Leonard Boussioux and <strong>Stefanos Poulidis</strong></p>
+
+    <p class="pub-actions">
+      <button onclick="toggleAbstract('abstract3')" class="pub-btn">Abstract</button>
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119858" target="_blank" class="pub-btn">Working Paper</a>
+    </p>
+
+    <div id="abstract3" class="pub-abstract">
+      <p>AI skills are shareable, reusable, task-specific instructions that AI agents interpret and execute to perform recurring workflows. They now circulate at scale through public repositories where anyone can publish or adopt one. Generative AI has lowered the cost of producing these artifacts far faster than platforms have standardized how they are described and verified, so users must judge what a skill does and whether to trust it from a listing alone. What governance work makes this abundant supply evaluable and usable? We study this question with 49,332 skills from ClawHub, a public AI-skill repository. Embedding the full skill specifications, we recover a functional taxonomy of the ecosystem that differs from both platform categories and labor-market skill labels, revealing a <i>curation gap</i> between how skills are organized and how users must evaluate them. The gap is widest where the stakes are highest&mdash;e.g., in domains such as healthcare, law, and banking, where credentialing, liability, and error costs amplify the consequences of mismatch. Creation is abundant, but install-based public commitment remains concentrated: 94.8% of skills are dormant, the top 0.26% capture about half of installs, and poorly represented niches more often remain dormant. We theorize these patterns as <i>use-side governance</i>: the downstream capacity, combining platform curation and users' AI fluency, that makes AI artifacts discoverable, comparable, validatable, and usable. Task-level evidence from the Anthropic Economic Index, linked through the same O*NET work frame, examines the narrower user-side behavior of evaluative engagement. More evaluative engagement with AI outputs is associated with higher estimated task success, while disengaged use is most costly in high-governance work. Generativity without evaluability produces abundance without usable supply. When anyone can build, platform governance should shift from attracting creators and expanding supply toward supporting effective evaluation and use.</p>
+    </div>
   </section>
 
   <section class="research-item research-item--compact">

@@ -105,6 +105,7 @@ require_pattern "_pages/about.md" 'fieldwork-paper' "fieldwork paper grouping ma
 require_pattern "_pages/about.md" 'AI Field Deployments' "AI field deployments section heading"
 require_pattern "_pages/about.md" 'Self-Regulated AI Use' "Self-regulated fieldwork group"
 require_pattern "_pages/about.md" 'https://stefanospoulidis.github.io/aichesstraining/' "AI chess training platform link"
+require_pattern "_pages/about.md" 'href="/workflow-design-lab/"' "Workflow Design Lab link"
 require_pattern "_pages/about.md" 'ai-chess-training-platform\.jpg' "AI chess training platform screenshot"
 require_pattern "_pages/about.md" 'AI-generated feedback shapes chess training, practice behavior, and skill development' "AI chess training platform research caption"
 reject_pattern "_pages/about.md" 'Static preview of the training platform' "old static platform caption"
@@ -127,6 +128,8 @@ require_path "assets/images/media/insead-demand-ai-assistance.png" "INSEAD learn
 require_path "assets/images/media/wharton-ai-assistance-learning.png" "Wharton screenshot"
 require_path "assets/images/media/insead-ai-nudge.png" "INSEAD nudge screenshot"
 require_path "assets/images/ai-chess-training-platform.jpg" "AI chess training platform screenshot"
+require_path "workflow-design-lab/index.html" "Workflow Design Lab entry point"
+require_path "workflow-design-lab/og.png" "Workflow Design Lab social card"
 
 require_pattern "_pages/teaching.md" 'https://stefanospoulidis.github.io/pom-tutorials/' "POM Tutorials link"
 require_pattern "_pages/teaching.md" 'title:[[:space:]]*Teaching' "teaching page title"

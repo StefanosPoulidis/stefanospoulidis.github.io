@@ -95,9 +95,6 @@ human-AI collaboration, information design, human capital development, digital p
   <section class="research-item research-item--compact">
     <h3><strong>When More AI Preserves Capability: Component Selection in Human-AI Workflows</strong></h3>
     <p class="research-authors"><strong>Stefanos Poulidis</strong></p>
-    <p class="pub-actions">
-      <a href="/workflow-design-lab/" target="_blank" rel="noopener" class="pub-btn">Interactive Model</a>
-    </p>
   </section>
 
   <section class="research-item research-item--compact">

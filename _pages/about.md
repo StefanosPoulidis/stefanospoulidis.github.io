@@ -60,6 +60,7 @@ human-AI collaboration, information design, human capital development, digital p
 
     <ul class="pub-awards">
       <li><em>Best Paper</em>, AOM Annual Meeting MED Division, 2026</li>
+      <li>Research referenced in <em>The Economist</em>, 2026</li>
     </ul>
 
     <p class="pub-actions">

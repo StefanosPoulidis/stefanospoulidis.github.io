@@ -82,6 +82,7 @@ human-AI collaboration, information design, human capital development, digital p
   <section class="research-item">
     <h3><strong>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</strong></h3>
     <p class="research-authors">Leonard Boussioux and <strong>Stefanos Poulidis</strong></p>
+    <p class="paper-status"><em>Conditional Acceptance</em>, <strong>International Conference on Information Systems (ICIS)</strong>, 2026</p>
 
     <p class="pub-actions">
       <button onclick="toggleAbstract('abstract3')" class="pub-btn">Abstract</button>

@@ -5,6 +5,10 @@ permalink: /awards/
 author_profile: true
 ---
 
+## Teaching Awards
+
+- **Outstanding Tutor Award**, INSEAD, 2026
+
 ## Research Awards
 
 - **Best Paper**, AOM Annual Meeting MED Division, 2026  

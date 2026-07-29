@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<p class="teaching-award"><strong>Outstanding Tutor Award</strong>, INSEAD, 2026</p>
+
 <section class="teaching-platform">
   <div class="teaching-platform__body">
     <h2>POM Tutorials</h2>

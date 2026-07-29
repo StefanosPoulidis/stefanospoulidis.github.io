@@ -409,6 +409,15 @@ video {
   text-decoration: underline;
 }
 
+.teaching-award {
+  margin: 0.35rem 0 1.35rem;
+  padding: 0.35rem 0 0.35rem 0.7rem;
+  border-left: 3px solid #7a8f3a;
+  color: #38451d;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
 .teaching-platform {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(240px, 0.78fr);

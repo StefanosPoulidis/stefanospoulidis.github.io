@@ -13,6 +13,7 @@ author_profile: true
     <p>
       I built a companion platform for the INSEAD MBA core course in Process &amp; Operations Management. The platform organizes tutorial sessions around process improvement, queues and variability, newsvendor models, and exam preparation, with recordings, slides, review sheets, worked solutions, interactive practice problems, and past-exam material.
     </p>
+    <p>The full tutorial platform is available to course participants.</p>
     <p class="teaching-actions">
       <a href="https://stefanospoulidis.github.io/pom-tutorials/" target="_blank" class="pub-btn">Open POM Tutorials</a>
     </p>
@@ -20,6 +21,23 @@ author_profile: true
   <a href="https://stefanospoulidis.github.io/pom-tutorials/" target="_blank" class="teaching-platform__image-link">
     <img src="{{ site.baseurl }}/assets/images/teaching/pom-tutorials-overview.png" alt="POM Tutorials dashboard with five Process and Operations Management tutorial sessions">
   </a>
+</section>
+
+<section class="teaching-game">
+  <a href="https://stefanospoulidis.github.io/pom-tutorials/newsvendor-game.html" target="_blank" rel="noopener" class="teaching-game__image-link">
+    <img src="{{ site.baseurl }}/assets/images/teaching/newsvendor-game.png" alt="The Newsvendor Challenge interactive inventory game">
+  </a>
+  <div class="teaching-game__body">
+    <p class="teaching-material__label">Public interactive game</p>
+    <h2>Newsvendor Game</h2>
+    <p>
+      I developed The Newsvendor Challenge, an interactive game in which participants make inventory decisions before demand is revealed and receive immediate feedback across changing market conditions.
+    </p>
+    <p>Unlike the full tutorial platform, the game is publicly accessible.</p>
+    <p class="teaching-actions">
+      <a href="https://stefanospoulidis.github.io/pom-tutorials/newsvendor-game.html" target="_blank" rel="noopener" class="pub-btn">Play Newsvendor Game</a>
+    </p>
+  </div>
 </section>
 
 ## Courses

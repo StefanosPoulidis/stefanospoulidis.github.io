@@ -95,12 +95,12 @@ human-AI collaboration, information design, human capital development, digital p
   </section>
 
   <section class="research-item research-item--compact">
-    <h3><strong>When More AI Preserves Capability: Component Selection in Human-AI Workflows</strong></h3>
+    <h3><strong>Beyond More or Less AI: Component Selection in Human-AI Workflows</strong></h3>
     <p class="research-authors"><strong>Stefanos Poulidis</strong></p>
   </section>
 
   <section class="research-item research-item--compact">
-    <h3><strong>State-Coded AI Signals Under Load: Evidence from Virtual Sitting</strong></h3>
+    <h3><strong>Human-AI Collaboration in Patient Monitoring Workflows: Evidence from Virtual Sitting</strong></h3>
     <p class="research-authors">Blair Liu and <strong>Stefanos Poulidis</strong></p>
   </section>
 </div>

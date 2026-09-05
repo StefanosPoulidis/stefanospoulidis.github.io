@@ -184,6 +184,63 @@ video {
   text-decoration: none;
 }
 
+.upcoming-presentations {
+  margin: 1rem 0 2rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.upcoming-presentations__event {
+  margin-bottom: 0.2rem;
+}
+
+.upcoming-presentations__event h3 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.upcoming-presentations__event p {
+  margin: 0.2rem 0 0;
+  color: #52616f;
+  font-size: 0.9rem;
+}
+
+.upcoming-presentation {
+  display: grid;
+  grid-template-columns: 10.5rem minmax(0, 1fr);
+  gap: 1.1rem;
+  padding: 1rem 0;
+  border-top: 1px solid #e5e7eb;
+}
+
+.upcoming-presentation__time {
+  color: #334155;
+  font-size: 0.88rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.upcoming-presentation__time time,
+.upcoming-presentation__time span {
+  display: block;
+}
+
+.upcoming-presentation__details h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.upcoming-presentation__details p {
+  margin: 0.12rem 0;
+  color: #3f4650;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.upcoming-presentation__presenter {
+  font-family: $serif;
+}
+
 .research-list {
   margin-top: 1.25rem;
 }
@@ -664,5 +721,10 @@ video {
 
   .teaching-game {
     grid-template-columns: minmax(0, 1fr);
+  }
+
+  .upcoming-presentation {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.45rem;
   }
 }

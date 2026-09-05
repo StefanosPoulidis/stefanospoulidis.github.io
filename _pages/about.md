@@ -24,6 +24,40 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
   </a>
 </p>
 
+## Upcoming Presentations
+
+<section class="upcoming-presentations" aria-label="Upcoming presentations at the 2026 INFORMS Annual Meeting">
+  <div class="upcoming-presentations__event">
+    <h3><a href="https://meetings.informs.org/wordpress/annual/" target="_blank" rel="noopener">2026 INFORMS Annual Meeting</a></h3>
+    <p>November 1-4, 2026 · San Francisco, CA</p>
+  </div>
+
+  <article class="upcoming-presentation">
+    <div class="upcoming-presentation__time">
+      <time datetime="2026-11-03">Tuesday, November 3</time>
+      <span>1:15-2:30 PM PT</span>
+    </div>
+    <div class="upcoming-presentation__details">
+      <h3>Beyond More or Less AI: Component Selection in Human-AI Workflows</h3>
+      <p><strong>Session:</strong> AI-Enabled Operations Research</p>
+      <p><strong>Location:</strong> Moscone South-312 (Level 3)</p>
+    </div>
+  </article>
+
+  <article class="upcoming-presentation">
+    <div class="upcoming-presentation__time">
+      <time datetime="2026-11-03">Tuesday, November 3</time>
+      <span>1:15-2:30 PM PT</span>
+    </div>
+    <div class="upcoming-presentation__details">
+      <h3>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</h3>
+      <p class="upcoming-presentation__presenter">Presented by Leonard Boussioux</p>
+      <p><strong>Session:</strong> Future of Work and Human-AI Collaboration</p>
+      <p><strong>Location:</strong> Moscone South-56 (Lower Mezz)</p>
+    </div>
+  </article>
+</section>
+
 
 **Research interests**
 

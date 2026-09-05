@@ -26,82 +26,10 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 
 ## Upcoming Presentations
 
-<section class="upcoming-presentations" aria-label="Upcoming presentation at 2026 INFORMS Workshop on Data Science">
-  <div class="upcoming-presentations__event">
-    <h3>2026 INFORMS Workshop on Data Science</h3>
-  </div>
-
-  <article class="upcoming-presentation">
-    <div class="upcoming-presentation__time">
-      <span>October 31</span>
-    </div>
-    <div class="upcoming-presentation__details">
-      <h3>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</h3>
-    </div>
-  </article>
-</section>
-
-<section class="upcoming-presentations" aria-label="Upcoming presentation at 2026 Conference on Information Systems and Technology (CIST)">
-  <div class="upcoming-presentations__event">
-    <h3>2026 Conference on Information Systems and Technology (CIST)</h3>
-  </div>
-
-  <article class="upcoming-presentation">
-    <div class="upcoming-presentation__time">
-      <span>October 31–November 1</span>
-    </div>
-    <div class="upcoming-presentation__details">
-      <h3>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</h3>
-    </div>
-  </article>
-</section>
-
-<section class="upcoming-presentations" aria-label="Upcoming presentations at the 2026 INFORMS Annual Meeting">
-  <div class="upcoming-presentations__event">
-    <h3>2026 INFORMS Annual Meeting</h3>
-  </div>
-
-  <article class="upcoming-presentation">
-    <div class="upcoming-presentation__time">
-      <time datetime="2026-11-03">Tuesday, November 3</time>
-      <span>1:15-2:30 PM PT</span>
-    </div>
-    <div class="upcoming-presentation__details">
-      <h3>Beyond More or Less AI: Component Selection in Human-AI Workflows</h3>
-      <p><strong>Session:</strong> AI-Enabled Operations Research</p>
-      <p><strong>Location:</strong> Moscone South-312 (Level 3)</p>
-    </div>
-  </article>
-
-  <article class="upcoming-presentation">
-    <div class="upcoming-presentation__time">
-      <time datetime="2026-11-03">Tuesday, November 3</time>
-      <span>1:15-2:30 PM PT</span>
-    </div>
-    <div class="upcoming-presentation__details">
-      <h3>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</h3>
-      <p class="upcoming-presentation__presenter">Presented by Leonard Boussioux</p>
-      <p><strong>Session:</strong> Future of Work and Human-AI Collaboration</p>
-      <p><strong>Location:</strong> Moscone South-56 (Lower Mezz)</p>
-    </div>
-  </article>
-</section>
-
-<section class="upcoming-presentations" aria-label="Upcoming presentation at 2026 International Conference on Information Systems (ICIS)">
-  <div class="upcoming-presentations__event">
-    <h3>2026 International Conference on Information Systems (ICIS)</h3>
-  </div>
-
-  <article class="upcoming-presentation">
-    <div class="upcoming-presentation__time">
-      <span>December 13–16</span>
-    </div>
-    <div class="upcoming-presentation__details">
-      <h3>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</h3>
-    </div>
-  </article>
-</section>
-
+- **INFORMS Workshop on Data Science** (October 31, 2026)
+- **Conference on Information Systems and Technology (CIST)** (October 31–November 1, 2026)
+- **INFORMS Annual Meeting** (November 3, 2026, 1:15–2:30 PM PT; session: AI-Enabled Operations Research; location: Moscone South-312, Level 3)
+- **International Conference on Information Systems (ICIS)** (December 13–16, 2026)
 
 **Research interests**
 

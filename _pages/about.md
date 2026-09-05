@@ -28,8 +28,7 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 
 <section class="upcoming-presentations" aria-label="Upcoming presentations at the 2026 INFORMS Annual Meeting">
   <div class="upcoming-presentations__event">
-    <h3><a href="https://meetings.informs.org/wordpress/annual/" target="_blank" rel="noopener">2026 INFORMS Annual Meeting</a></h3>
-    <p>November 1-4, 2026 · San Francisco, CA</p>
+    <h3>2026 INFORMS Annual Meeting</h3>
   </div>
 
   <article class="upcoming-presentation">

@@ -62,7 +62,6 @@ human-AI collaboration, information design, human capital development, digital p
   <section class="research-item">
     <h3><strong>Self-Regulated AI Use Hinders Long-Term Learning</strong></h3>
     <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Osbert Bastani</p>
-    <p class="paper-status paper-status--jmp">Job Market Paper</p>
 
     <ul class="pub-awards">
       <li><em>Best Paper</em>, AOM Annual Meeting MED Division, 2026</li>

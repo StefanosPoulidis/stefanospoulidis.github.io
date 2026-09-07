@@ -81,6 +81,7 @@ human-AI collaboration, information design, human capital development, digital p
   <section class="research-item research-item--compact">
     <h3><strong>Generative AI Workflows at Work</strong></h3>
     <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Spyros Zoumpoulis</p>
+    <p class="paper-status"><em>Data analysis in progress; industry collaboration.</em></p>
   </section>
 
 
@@ -88,6 +89,7 @@ human-AI collaboration, information design, human capital development, digital p
     <h3><strong>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</strong></h3>
     <p class="research-authors">Leonard Boussioux and <strong>Stefanos Poulidis</strong></p>
     <p class="paper-status"><em>Conditional Acceptance</em>, <strong>International Conference on Information Systems (ICIS)</strong>, 2026</p>
+    <p class="paper-status"><em>Accepted</em>, <strong>Conference on Information Systems and Technology (CIST)</strong>, 2026</p>
 
     <p class="pub-actions">
       <button onclick="toggleAbstract('abstract3')" class="pub-btn">Abstract</button>
@@ -102,11 +104,13 @@ human-AI collaboration, information design, human capital development, digital p
   <section class="research-item research-item--compact">
     <h3><strong>Beyond More or Less AI: Component Selection in Human-AI Workflows</strong></h3>
     <p class="research-authors"><strong>Stefanos Poulidis</strong></p>
+    <p class="paper-status"><em>Draft available on request.</em></p>
   </section>
 
   <section class="research-item research-item--compact">
     <h3><strong>Human-AI Collaboration in Patient Monitoring Workflows: Evidence from Virtual Sitting</strong></h3>
     <p class="research-authors">Blair Liu and <strong>Stefanos Poulidis</strong></p>
+    <p class="paper-status"><em>Data-use agreement being finalized; industry collaboration.</em></p>
   </section>
 </div>
 

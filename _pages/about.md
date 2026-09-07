@@ -31,9 +31,9 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 - **INFORMS Annual Meeting** (November 3, 2026, 1:15–2:30 PM PT; session: AI-Enabled Operations Research; location: Moscone South-312, Level 3)
 - **International Conference on Information Systems (ICIS)** (December 13–16, 2026)
 
-**Research interests**
+<p class="research-interests-heading"><strong>Research interests</strong></p>
 
-human-AI collaboration, information design, human capital development, digital platforms, generative and agentic AI
+AI-enabled operations, human-AI collaboration, behavioral operations, algorithmic advice, human capital development
 
 ## Research
 

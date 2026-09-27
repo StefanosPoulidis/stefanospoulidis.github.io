@@ -11,6 +11,8 @@ author_profile: true
 
 ## Research Awards
 
+- **PhD Academic Excellence Award**, INSEAD, 2026
+
 - **Best Paper**, AOM Annual Meeting MED Division, 2026  
   For "Self-Regulated AI Use Hinders Long-Term Learning"
 

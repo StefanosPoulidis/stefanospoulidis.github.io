@@ -33,7 +33,7 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 
 <p class="research-interests-heading"><strong>Research interests</strong></p>
 
-AI-enabled operations, human-AI collaboration, behavioral operations, algorithmic advice, human capital development
+human-AI collaboration, behavioral operations, algorithmic advice, human capital development
 
 ## Research
 
@@ -46,7 +46,7 @@ AI-enabled operations, human-AI collaboration, behavioral operations, algorithmi
 
     <ul class="pub-awards">
       <li><em>1st Place</em>, Decision Analysis Society Student Paper Award, 2025</li>
-      <li><em>Finalist</em>, TIMES Best Working Paper Award, 2025</li>
+      <li><em>Finalist</em>, TIMES Working Paper Award, 2025</li>
     </ul>
    
     <p class="pub-actions">
@@ -63,9 +63,11 @@ AI-enabled operations, human-AI collaboration, behavioral operations, algorithmi
     <h3><strong>Self-Regulated AI Use Hinders Long-Term Learning</strong></h3>
     <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Osbert Bastani</p>
 
+    <p class="paper-status"><em>Under Review</em>, <strong>PNAS</strong></p>
+
     <ul class="pub-awards">
       <li><em>Best Paper</em>, AOM Annual Meeting MED Division, 2026</li>
-      <li>Research referenced in <em>The Economist</em>, 2026</li>
+      <li>Research featured in <em>The Economist</em>, 2026</li>
     </ul>
 
     <p class="pub-actions">
@@ -88,8 +90,7 @@ AI-enabled operations, human-AI collaboration, behavioral operations, algorithmi
   <section class="research-item">
     <h3><strong>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</strong></h3>
     <p class="research-authors">Leonard Boussioux and <strong>Stefanos Poulidis</strong></p>
-    <p class="paper-status"><em>Conditional Acceptance</em>, <strong>International Conference on Information Systems (ICIS)</strong>, 2026</p>
-    <p class="paper-status"><em>Accepted</em>, <strong>Conference on Information Systems and Technology (CIST)</strong>, 2026</p>
+    <p class="paper-status"><em>Forthcoming</em>, <strong>Proceedings of International Conference on Information Systems (ICIS)</strong>, 2026</p>
 
     <p class="pub-actions">
       <button onclick="toggleAbstract('abstract3')" class="pub-btn">Abstract</button>

@@ -490,6 +490,20 @@ video {
   text-decoration: underline;
 }
 
+.research-spotlight {
+  margin: 0.75rem 0 2rem;
+}
+
+.research-spotlight video {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 1px solid #d9dee4;
+  border-radius: 6px;
+  background: #111;
+}
+
 .teaching-award {
   margin: 0.35rem 0 1.35rem;
   padding: 0.35rem 0 0.35rem 0.7rem;

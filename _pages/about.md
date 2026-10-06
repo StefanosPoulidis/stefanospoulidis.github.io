@@ -174,3 +174,12 @@ human-AI collaboration, behavioral operations, algorithmic advice, human capital
     <h3><a href="https://x.com/FIDE_chess/status/1751912810705977839?s=20" target="_blank">Communication on the human-AI chess experiment</a></h3>
   </article>
 </div>
+
+## Research Spotlight
+
+<figure class="research-spotlight">
+  <video controls playsinline preload="none" width="1920" height="1080" poster="{{ site.baseurl }}/assets/images/research-spotlight.jpg" aria-label="Research Spotlight: an interview with Stefanos Poulidis">
+    <source src="{{ site.baseurl }}/assets/video/research-spotlight.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</figure>

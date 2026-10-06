@@ -26,7 +26,6 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 
 ## Upcoming Presentations
 
-- **INFORMS Workshop on Data Science** (October 31, 2026)
 - **Conference on Information Systems and Technology (CIST)** (October 31–November 1, 2026)
 - **INFORMS Annual Meeting** (November 3, 2026, 1:15–2:30 PM PT; session: AI-Enabled Operations Research; location: Moscone South-312, Level 3)
 - **International Conference on Information Systems (ICIS)** (December 13–16, 2026)
@@ -37,84 +36,69 @@ human-AI collaboration, behavioral operations, algorithmic advice, human capital
 
 ## Research
 
-<div class="research-list">
-  <section class="research-item">
-    <h3><strong>Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</strong></h3>
-    <p class="research-authors"><strong>Stefanos Poulidis</strong>, Haosen Ge, Hamsa Bastani, and Osbert Bastani</p>
+<section class="research-group" aria-labelledby="working-papers">
+  <h3 class="research-group__title" id="working-papers">Working Papers</h3>
+  <div class="research-list">
+    <section class="research-item">
+      <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584" target="_blank" rel="noopener">Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</a></h4>
+      <p class="research-authors"><strong>Stefanos Poulidis</strong>, Haosen Ge, Hamsa Bastani, and Osbert Bastani</p>
 
-    <p class="paper-status"><em>Major Revision</em>, <strong>Management Science</strong></p>
+      <p class="paper-status"><em>Major Revision</em>, <strong>Management Science</strong></p>
 
-    <ul class="pub-awards">
-      <li><em>1st Place</em>, Decision Analysis Society Student Paper Award, 2025</li>
-      <li><em>Finalist</em>, TIMES Working Paper Award, 2025</li>
-    </ul>
-   
-    <p class="pub-actions">
-      <button onclick="toggleAbstract('abstract1')" class="pub-btn">Abstract</button>
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584" target="_blank" class="pub-btn">Working Paper</a>
-    </p>
+      <ul class="pub-awards">
+        <li><em>1st Place</em>, Decision Analysis Society Student Paper Award, 2025</li>
+        <li><em>Finalist</em>, TIMES Working Paper Award, 2025</li>
+      </ul>
+    </section>
 
-    <div id="abstract1" class="pub-abstract">
-      <p>Algorithmic advice increasingly supports human decision-making in high-stakes domains such as healthcare, law, and finance. While prior work has mostly studied <i>action signals</i>, which recommend specific actions, many practical implementations actually rely on <i>attention signals</i>, which highlight critical decisions without prescribing a course of action—e.g., in hospitals, attention signals may trigger upon encountering high-risk patients, while action signals may additionally suggest specific treatments for those patients. Naïvely, if both kinds of signals are reliable, then action signals may be clearly preferable since they provide significantly more information to the decision-maker. To assess this hypothesis, we study the impact of these signals on human decision-making via an extensive behavioral experiment in the context of chess, a challenging and well-studied decision-making problem where experts frequently rely on algorithmic advice. We find that both signal types can effectively improve decision-making, with attention signals achieving at least 40% of the benefits of action signals. However, we find that action signals only improve decision-making in the specific states where they are provided, and can even guide decision-makers into "uncharted waters" where they are unsure how to make effective decisions, thereby degrading subsequent performance. In contrast, attention signals improve decision-making quality not only in states where they are given, but also in subsequent states. Our findings suggest that action signals act as substitutes for human thinking, whereas attention signals act as complements—thus, attention signals may be preferable to action signals even in settings where both kinds of signals are considered reliable.</p>
-    </div>
-  </section>
+    <section class="research-item">
+      <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932" target="_blank" rel="noopener">Self-Regulated AI Use Hinders Long-Term Learning</a></h4>
+      <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Osbert Bastani</p>
 
-  <section class="research-item">
-    <h3><strong>Self-Regulated AI Use Hinders Long-Term Learning</strong></h3>
-    <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Osbert Bastani</p>
+      <p class="paper-status"><em>Under Review</em>, <strong>PNAS</strong></p>
 
-    <p class="paper-status"><em>Under Review</em>, <strong>PNAS</strong></p>
+      <ul class="pub-awards">
+        <li><em>Best Paper</em>, AOM Annual Meeting MED Division, 2026</li>
+        <li>Research featured in <em>The Economist</em>, 2026</li>
+      </ul>
+    </section>
 
-    <ul class="pub-awards">
-      <li><em>Best Paper</em>, AOM Annual Meeting MED Division, 2026</li>
-      <li>Research featured in <em>The Economist</em>, 2026</li>
-    </ul>
+    <section class="research-item">
+      <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119858" target="_blank" rel="noopener">When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</a></h4>
+      <p class="research-authors">Leonard Boussioux and <strong>Stefanos Poulidis</strong></p>
+      <p class="paper-status"><em>Forthcoming</em>, <strong>Proceedings of International Conference on Information Systems (ICIS)</strong>, 2026</p>
+    </section>
 
-    <p class="pub-actions">
-      <button onclick="toggleAbstract('abstract2')" class="pub-btn">Abstract</button>
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932" target="_blank" class="pub-btn">Working Paper</a>
-    </p>
+    <section class="research-item">
+      <h4><a href="https://arxiv.org/abs/2609.32562" target="_blank" rel="noopener">Artificial intelligences and human scientists exhibit complementary strengths in theory building</a></h4>
+      <p class="research-authors">Ke Li, &hellip;, <strong>Stefanos Poulidis</strong>, &hellip;, Eric Luis Uhlmann</p>
+      <p class="paper-status"><em>Under Review</em>, <strong>PNAS</strong></p>
+    </section>
+  </div>
+</section>
 
-    <div id="abstract2" class="pub-abstract">
-      <p>There has been significant recent interest in leveraging artificial intelligence (AI) tutors to aid student learning. Current systems enable students to control the timing and nature of AI assistance; however, this student-directed access risks short-circuiting the effortful practice essential for lasting expertise. To understand these risks, we conducted a long-term field experiment with over 200 chess club students training on a custom AI-assisted chess platform. Students were randomly assigned to either a <i>system-regulated</i> condition, where the platform automatically provided AI tips at key moments, or a <i>self-regulated</i> condition, where students could additionally request help at any time by clicking a button. After 12 weeks of training, we find that both groups improved their chess skills, but students in the self-regulated condition achieved less than half the performance gains of students in the system-regulated condition (30% vs. 64%). We identify two potential mechanisms for these adverse effects: reduced engagement and diminished productive struggle—students in the self-regulated condition trained less, reported a lower sense of accomplishment, and became increasingly reliant on AI even though they were aware of its harms. We also show that these effects are mitigated among highly motivated students, but not among highly skilled students. Our findings demonstrate that while scaffolded AI assistance can accelerate learning, unrestricted access can undermine it.</p>
-    </div>
-  </section>
+<section class="research-group" aria-labelledby="work-in-progress">
+  <h3 class="research-group__title" id="work-in-progress">Work in Progress</h3>
+  <div class="research-list">
+    <section class="research-item research-item--compact">
+      <h4>Generative AI Workflows at Work</h4>
+      <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Spyros Zoumpoulis</p>
+      <p class="paper-status"><em>Data analysis in progress; industry collaboration.</em></p>
+    </section>
 
-  <section class="research-item research-item--compact">
-    <h3><strong>Generative AI Workflows at Work</strong></h3>
-    <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Spyros Zoumpoulis</p>
-    <p class="paper-status"><em>Data analysis in progress; industry collaboration.</em></p>
-  </section>
+    <section class="research-item research-item--compact">
+      <h4>Beyond More or Less AI: Component Selection in Human-AI Workflows</h4>
+      <p class="research-authors"><strong>Stefanos Poulidis</strong></p>
+      <p class="paper-status"><em>Draft available on request.</em></p>
+    </section>
 
-
-  <section class="research-item">
-    <h3><strong>When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</strong></h3>
-    <p class="research-authors">Leonard Boussioux and <strong>Stefanos Poulidis</strong></p>
-    <p class="paper-status"><em>Forthcoming</em>, <strong>Proceedings of International Conference on Information Systems (ICIS)</strong>, 2026</p>
-
-    <p class="pub-actions">
-      <button onclick="toggleAbstract('abstract3')" class="pub-btn">Abstract</button>
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119858" target="_blank" class="pub-btn">Working Paper</a>
-    </p>
-
-    <div id="abstract3" class="pub-abstract">
-      <p>AI skills are shareable, reusable, task-specific instructions that AI agents interpret and execute to perform recurring workflows. They now circulate at scale through public repositories where anyone can publish or adopt one. Generative AI has lowered the cost of producing these artifacts far faster than platforms have standardized how they are described and verified, so users must judge what a skill does and whether to trust it from a listing alone. What governance work makes this abundant supply evaluable and usable? We study this question with 49,332 skills from ClawHub, a public AI-skill repository. Embedding the full skill specifications, we recover a functional taxonomy of the ecosystem that differs from both platform categories and labor-market skill labels, revealing a <i>curation gap</i> between how skills are organized and how users must evaluate them. The gap is widest where the stakes are highest&mdash;e.g., in domains such as healthcare, law, and banking, where credentialing, liability, and error costs amplify the consequences of mismatch. Creation is abundant, but install-based public commitment remains concentrated: 94.8% of skills are dormant, the top 0.26% capture about half of installs, and poorly represented niches more often remain dormant. We theorize these patterns as <i>use-side governance</i>: the downstream capacity, combining platform curation and users' AI fluency, that makes AI artifacts discoverable, comparable, validatable, and usable. Task-level evidence from the Anthropic Economic Index, linked through the same O*NET work frame, examines the narrower user-side behavior of evaluative engagement. More evaluative engagement with AI outputs is associated with higher estimated task success, while disengaged use is most costly in high-governance work. Generativity without evaluability produces abundance without usable supply. When anyone can build, platform governance should shift from attracting creators and expanding supply toward supporting effective evaluation and use.</p>
-    </div>
-  </section>
-
-  <section class="research-item research-item--compact">
-    <h3><strong>Beyond More or Less AI: Component Selection in Human-AI Workflows</strong></h3>
-    <p class="research-authors"><strong>Stefanos Poulidis</strong></p>
-    <p class="paper-status"><em>Draft available on request.</em></p>
-  </section>
-
-  <section class="research-item research-item--compact">
-    <h3><strong>Human-AI Collaboration in Patient Monitoring Workflows: Evidence from Virtual Sitting</strong></h3>
-    <p class="research-authors">Blair Liu and <strong>Stefanos Poulidis</strong></p>
-    <p class="paper-status"><em>Data-use agreement being finalized; industry collaboration.</em></p>
-  </section>
-</div>
-
+    <section class="research-item research-item--compact">
+      <h4>Human-AI Collaboration in Patient Monitoring Workflows: Evidence from Virtual Sitting</h4>
+      <p class="research-authors">Blair Liu and <strong>Stefanos Poulidis</strong></p>
+      <p class="paper-status"><em>Data-use agreement being finalized; industry collaboration.</em></p>
+    </section>
+  </div>
+</section>
 
 ## AI Field Deployments
 

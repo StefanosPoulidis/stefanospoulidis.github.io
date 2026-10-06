@@ -14,6 +14,11 @@ var breaks = [];
 
 function updateNav() {
 
+  // Static navigation has no overflow button or hidden-links list.
+  if (!$nav.length || !$btn.length || !$vlinks.length || !$hlinks.length) {
+    return;
+  }
+
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav

@@ -65,14 +65,13 @@ human-AI collaboration, behavioral operations, algorithmic advice, human capital
 
     <section class="research-item">
       <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119858" target="_blank" rel="noopener">When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</a></h4>
-      <p class="research-authors">Leonard Boussioux and <strong>Stefanos Poulidis</strong></p>
+      <p class="research-authors">Leonard Boussioux<sup>*</sup> and <strong>Stefanos Poulidis</strong><sup>*</sup> <em>(* denotes equal contribution)</em></p>
       <p class="paper-status"><em>Forthcoming</em>, <strong>Proceedings of International Conference on Information Systems (ICIS)</strong>, 2026</p>
     </section>
 
     <section class="research-item">
       <h4><a href="https://arxiv.org/abs/2609.32562" target="_blank" rel="noopener">Artificial intelligences and human scientists exhibit complementary strengths in theory building</a></h4>
       <p class="research-authors">Ke Li, &hellip;, <strong>Stefanos Poulidis</strong>, &hellip;, Eric Luis Uhlmann</p>
-      <p class="paper-status"><em>Under Review</em>, <strong>PNAS</strong></p>
     </section>
   </div>
 </section>
@@ -94,8 +93,14 @@ human-AI collaboration, behavioral operations, algorithmic advice, human capital
 
     <section class="research-item research-item--compact">
       <h4>Human-AI Collaboration in Patient Monitoring Workflows: Evidence from Virtual Sitting</h4>
-      <p class="research-authors">Blair Liu and <strong>Stefanos Poulidis</strong></p>
+      <p class="research-authors">Blair Liu<sup>*</sup> and <strong>Stefanos Poulidis</strong><sup>*</sup> <em>(* denotes equal contribution)</em></p>
       <p class="paper-status"><em>Data-use agreement being finalized; industry collaboration.</em></p>
+    </section>
+
+    <section class="research-item research-item--compact">
+      <h4>Born Automated: The New Work of AI Agents</h4>
+      <p class="research-authors">Leonard Boussioux<sup>*</sup>, K. Cho<sup>*</sup>, <strong>Stefanos Poulidis</strong><sup>*</sup>, and Z. Zhao<sup>*</sup> <em>(* denotes equal contribution)</em></p>
+      <p class="paper-status"><em>Draft available on request.</em></p>
     </section>
   </div>
 </section>

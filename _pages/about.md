@@ -41,7 +41,7 @@ human-AI collaboration, behavioral operations, algorithmic advice, human capital
   <div class="research-list">
     <section class="research-item">
       <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584" target="_blank" rel="noopener">Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</a></h4>
-      <p class="research-authors"><strong>Stefanos Poulidis</strong>, Haosen Ge, Hamsa Bastani, and Osbert Bastani</p>
+      <p class="research-authors"><u>Stefanos Poulidis</u>, Haosen Ge, Hamsa Bastani, and Osbert Bastani</p>
 
       <p class="paper-status"><em>Major Revision</em>, <strong>Management Science</strong></p>
 
@@ -53,7 +53,7 @@ human-AI collaboration, behavioral operations, algorithmic advice, human capital
 
     <section class="research-item">
       <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5604932" target="_blank" rel="noopener">Self-Regulated AI Use Hinders Long-Term Learning</a></h4>
-      <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Osbert Bastani</p>
+      <p class="research-authors"><u>Stefanos Poulidis</u>, Hamsa Bastani, and Osbert Bastani</p>
 
       <p class="paper-status"><em>Under Review</em>, <strong>PNAS</strong></p>
 
@@ -65,13 +65,13 @@ human-AI collaboration, behavioral operations, algorithmic advice, human capital
 
     <section class="research-item">
       <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119858" target="_blank" rel="noopener">When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</a></h4>
-      <p class="research-authors">Leonard Boussioux<sup>*</sup> and <strong>Stefanos Poulidis</strong><sup>*</sup> <em>(* denotes equal contribution)</em></p>
+      <p class="research-authors">Leonard Boussioux<sup>*</sup> and <u>Stefanos Poulidis</u><sup>*</sup> <em>(* denotes equal contribution)</em></p>
       <p class="paper-status"><em>Forthcoming</em>, <strong>Proceedings of International Conference on Information Systems (ICIS)</strong>, 2026</p>
     </section>
 
     <section class="research-item">
       <h4><a href="https://arxiv.org/abs/2609.32562" target="_blank" rel="noopener">Artificial intelligences and human scientists exhibit complementary strengths in theory building</a></h4>
-      <p class="research-authors">Ke Li, &hellip;, <strong>Stefanos Poulidis</strong>, &hellip;, Eric Luis Uhlmann</p>
+      <p class="research-authors">Ke Li, &hellip;, <u>Stefanos Poulidis</u>, &hellip;, Eric Luis Uhlmann</p>
     </section>
   </div>
 </section>
@@ -81,25 +81,25 @@ human-AI collaboration, behavioral operations, algorithmic advice, human capital
   <div class="research-list">
     <section class="research-item research-item--compact">
       <h4>Generative AI Workflows at Work</h4>
-      <p class="research-authors"><strong>Stefanos Poulidis</strong>, Hamsa Bastani, and Spyros Zoumpoulis</p>
+      <p class="research-authors"><u>Stefanos Poulidis</u>, Hamsa Bastani, and Spyros Zoumpoulis</p>
       <p class="paper-status"><em>Data analysis in progress; industry collaboration.</em></p>
     </section>
 
     <section class="research-item research-item--compact">
       <h4>Beyond More or Less AI: Component Selection in Human-AI Workflows</h4>
-      <p class="research-authors"><strong>Stefanos Poulidis</strong></p>
+      <p class="research-authors"><u>Stefanos Poulidis</u></p>
       <p class="paper-status"><em>Draft available on request.</em></p>
     </section>
 
     <section class="research-item research-item--compact">
       <h4>Human-AI Collaboration in Patient Monitoring Workflows: Evidence from Virtual Sitting</h4>
-      <p class="research-authors">Blair Liu<sup>*</sup> and <strong>Stefanos Poulidis</strong><sup>*</sup> <em>(* denotes equal contribution)</em></p>
+      <p class="research-authors">Blair Liu<sup>*</sup> and <u>Stefanos Poulidis</u><sup>*</sup> <em>(* denotes equal contribution)</em></p>
       <p class="paper-status"><em>Data-use agreement being finalized; industry collaboration.</em></p>
     </section>
 
     <section class="research-item research-item--compact">
       <h4>Born Automated: The New Work of AI Agents</h4>
-      <p class="research-authors">Leonard Boussioux<sup>*</sup>, K. Cho<sup>*</sup>, <strong>Stefanos Poulidis</strong><sup>*</sup>, and Z. Zhao<sup>*</sup> <em>(* denotes equal contribution)</em></p>
+      <p class="research-authors">Leonard Boussioux<sup>*</sup>, K. Cho<sup>*</sup>, <u>Stefanos Poulidis</u><sup>*</sup>, and Z. Zhao<sup>*</sup> <em>(* denotes equal contribution)</em></p>
       <p class="paper-status"><em>Draft available on request.</em></p>
     </section>
   </div>

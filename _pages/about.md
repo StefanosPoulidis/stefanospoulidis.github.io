@@ -26,9 +26,24 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 
 ## Upcoming Presentations
 
-- **Conference on Information Systems and Technology (CIST)** (October 31–November 1, 2026)
-- **INFORMS Annual Meeting** (November 3, 2026, 1:15–2:30 PM PT; session: AI-Enabled Operations Research; location: Moscone South-312, Level 3)
-- **International Conference on Information Systems (ICIS)** (December 13–16, 2026)
+<ul class="upcoming-presentations">
+  <li>
+    <a class="upcoming-presentations__name" href="https://meetings.informs.org/wordpress/annual/" target="_blank" rel="noopener">INFORMS Annual Meeting</a>
+    <span class="upcoming-presentations__details">(November 3, 2026, 1:15–2:30 PM PT; session: AI-Enabled Operations Research; location: Moscone South-312, Level 3)</span>
+  </li>
+  <li>
+    <a class="upcoming-presentations__name" href="https://cist2026.github.io/" target="_blank" rel="noopener">Conference on Information Systems and Technology (CIST)</a>
+    <span class="upcoming-presentations__details">(October 31–November 1, 2026)</span>
+  </li>
+  <li>
+    <a class="upcoming-presentations__name" href="https://sites.google.com/view/data-science-2026/" target="_blank" rel="noopener">INFORMS Workshop on Data Science</a>
+    <span class="upcoming-presentations__details">(October 31)</span>
+  </li>
+  <li>
+    <a class="upcoming-presentations__name" href="https://icis2026.aisconferences.org/" target="_blank" rel="noopener">International Conference on Information Systems (ICIS)</a>
+    <span class="upcoming-presentations__details">(December 13–16, 2026)</span>
+  </li>
+</ul>
 
 <p class="research-interests-heading"><strong>Research interests</strong></p>
 
@@ -43,7 +58,10 @@ human-AI collaboration, behavioral operations, algorithmic advice, human capital
       <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128584" target="_blank" rel="noopener">Action vs. Attention Signals for Human-AI Collaboration: Evidence from Chess</a></h4>
       <p class="research-authors"><u>Stefanos Poulidis</u>, Haosen Ge, Hamsa Bastani, and Osbert Bastani</p>
 
-      <p class="paper-status"><em>Major Revision</em>, <strong>Management Science</strong></p>
+      <div class="paper-status-row">
+        <p class="paper-status"><em>Major Revision</em>, <strong>Management Science</strong></p>
+        <p class="paper-revision">Revised October 2026</p>
+      </div>
 
       <ul class="pub-awards">
         <li><em>1st Place</em>, Decision Analysis Society Student Paper Award, 2025</li>
@@ -66,12 +84,14 @@ human-AI collaboration, behavioral operations, algorithmic advice, human capital
     <section class="research-item">
       <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119858" target="_blank" rel="noopener">When Anyone Can Build, Who Evaluates? Use-Side Governance in AI Skill Ecosystems</a></h4>
       <p class="research-authors">Leonard Boussioux<sup>*</sup> and <u>Stefanos Poulidis</u><sup>*</sup> <em>(* denotes equal contribution)</em></p>
+      <p class="paper-status"><em>In preparation for submission to</em> <strong>Management Science</strong></p>
       <p class="paper-status"><em>Forthcoming</em>, <strong>Proceedings of International Conference on Information Systems (ICIS)</strong>, 2026</p>
     </section>
 
     <section class="research-item">
       <h4><a href="https://arxiv.org/abs/2609.32562" target="_blank" rel="noopener">Artificial intelligences and human scientists exhibit complementary strengths in theory building</a></h4>
       <p class="research-authors">Ke Li, &hellip;, <u>Stefanos Poulidis</u>, &hellip;, Eric Luis Uhlmann</p>
+      <p class="paper-status"><em>Under Review</em>, <strong>Organization Science</strong></p>
     </section>
   </div>
 </section>

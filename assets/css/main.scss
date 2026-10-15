@@ -224,22 +224,15 @@ video {
   margin-bottom: 0;
 }
 
-.page__content a.upcoming-presentations__name {
+.upcoming-presentations__name {
   color: #2f5f8f;
   font-size: 1.02rem;
   font-weight: 600;
-  text-decoration: none;
-}
-
-.page__content a.upcoming-presentations__name:hover,
-.page__content a.upcoming-presentations__name:focus-visible {
-  text-decoration: underline;
-  text-underline-offset: 0.12em;
 }
 
 .upcoming-presentations__details {
   color: #52616f;
-  font-size: 0.84rem;
+  font-size: 0.78rem;
 }
 
 .upcoming-presentations__event {

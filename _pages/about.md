@@ -28,20 +28,20 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 
 <ul class="upcoming-presentations">
   <li>
-    <a class="upcoming-presentations__name" href="https://meetings.informs.org/wordpress/annual/" target="_blank" rel="noopener">INFORMS Annual Meeting</a>
-    <span class="upcoming-presentations__details">(November 3, 2026, 1:15–2:30 PM PT; session: AI-Enabled Operations Research; location: Moscone South-312, Level 3)</span>
+    <span class="upcoming-presentations__name">INFORMS Annual Meeting</span>
+    <span class="upcoming-presentations__details">(Nov&nbsp;3, 1:15–2:30 PM; “AI-Enabled Operations Research”; Moscone South-312)</span>
   </li>
   <li>
-    <a class="upcoming-presentations__name" href="https://cist2026.github.io/" target="_blank" rel="noopener">Conference on Information Systems and Technology (CIST)</a>
-    <span class="upcoming-presentations__details">(October 31–November 1, 2026)</span>
+    <span class="upcoming-presentations__name">Conference on Information Systems and Technology (CIST)</span>
+    <span class="upcoming-presentations__details">(Oct&nbsp;31–Nov&nbsp;1)</span>
   </li>
   <li>
-    <a class="upcoming-presentations__name" href="https://sites.google.com/view/data-science-2026/" target="_blank" rel="noopener">INFORMS Workshop on Data Science</a>
-    <span class="upcoming-presentations__details">(October 31)</span>
+    <span class="upcoming-presentations__name">INFORMS Workshop on Data Science</span>
+    <span class="upcoming-presentations__details">(Oct&nbsp;31)</span>
   </li>
   <li>
-    <a class="upcoming-presentations__name" href="https://icis2026.aisconferences.org/" target="_blank" rel="noopener">International Conference on Information Systems (ICIS)</a>
-    <span class="upcoming-presentations__details">(December 13–16, 2026)</span>
+    <span class="upcoming-presentations__name">International Conference on Information Systems (ICIS)</span>
+    <span class="upcoming-presentations__details">(Dec&nbsp;13–16)</span>
   </li>
 </ul>
 

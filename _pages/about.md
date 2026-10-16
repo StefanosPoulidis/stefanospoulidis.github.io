@@ -47,7 +47,7 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 
 <p class="research-interests-heading"><strong>Research interests</strong></p>
 
-Human–AI collaboration · AI-enabled operations · Behavioral operations · Algorithmic advice · Human capital development
+human-AI collaboration, AI-enabled operations, behavioral operations, algorithmic advice, human capital development
 
 ## Research
 

@@ -29,19 +29,19 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
 <ul class="upcoming-presentations">
   <li>
     <span class="upcoming-presentations__name">INFORMS Annual Meeting</span>
-    <span class="upcoming-presentations__details">(Nov&nbsp;3, 1:15–2:30 PM; “AI-Enabled Operations Research”; Moscone South-312)</span>
+    <span class="upcoming-presentations__details">(<strong>Tue,&nbsp;Nov&nbsp;3</strong>, 1:15–2:30 PM; “AI-Enabled Operations Research”; Moscone South-312)</span>
   </li>
   <li>
     <span class="upcoming-presentations__name">Conference on Information Systems and Technology (CIST)</span>
-    <span class="upcoming-presentations__details">(Oct&nbsp;31, 3:00–4:05 PM; SA4.1: “AI Governance, Deployment, and Ecosystem Strategy”; Continental 1–3)</span>
+    <span class="upcoming-presentations__details">(<strong>Sat,&nbsp;Oct&nbsp;31</strong>, 3:00–4:05 PM; SA4.1: “AI Governance, Deployment, and Ecosystem Strategy”; Continental 1–3)</span>
   </li>
   <li>
     <span class="upcoming-presentations__name">INFORMS Workshop on Data Science</span>
-    <span class="upcoming-presentations__details">(Oct&nbsp;31, 10:45 AM–noon; C2: “AI Content, Adoption and Governance”; Moscone South-201)</span>
+    <span class="upcoming-presentations__details">(<strong>Sat,&nbsp;Oct&nbsp;31</strong>, 10:45 AM–noon; C2: “AI Content, Adoption and Governance”; Moscone South-201)</span>
   </li>
   <li>
     <span class="upcoming-presentations__name">International Conference on Information Systems (ICIS)</span>
-    <span class="upcoming-presentations__details">(Dec&nbsp;13–16)</span>
+    <span class="upcoming-presentations__details">(<strong>Sun–Wed,&nbsp;Dec&nbsp;13–16</strong>)</span>
   </li>
 </ul>
 

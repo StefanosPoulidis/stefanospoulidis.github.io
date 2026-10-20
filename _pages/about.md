@@ -33,11 +33,11 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
   </li>
   <li>
     <span class="upcoming-presentations__name">Conference on Information Systems and Technology (CIST)</span>
-    <span class="upcoming-presentations__details">(Oct&nbsp;31–Nov&nbsp;1)</span>
+    <span class="upcoming-presentations__details">(Oct&nbsp;31, 3:00–4:05 PM; SA4.1: “AI Governance, Deployment, and Ecosystem Strategy”; Continental 1–3)</span>
   </li>
   <li>
     <span class="upcoming-presentations__name">INFORMS Workshop on Data Science</span>
-    <span class="upcoming-presentations__details">(Oct&nbsp;31)</span>
+    <span class="upcoming-presentations__details">(Oct&nbsp;31, 10:45 AM–noon; C2: “AI Content, Adoption and Governance”; Moscone South-201)</span>
   </li>
   <li>
     <span class="upcoming-presentations__name">International Conference on Information Systems (ICIS)</span>

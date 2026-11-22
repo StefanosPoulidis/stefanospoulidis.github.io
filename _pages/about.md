@@ -24,6 +24,7 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
   </a>
 </p>
 
+{% comment %}
 ## Upcoming Presentations
 
 <ul class="upcoming-presentations">
@@ -44,6 +45,7 @@ I hold a B.S. and M.S. in Electrical and Computer Engineering from the National 
     <span class="upcoming-presentations__details">(<strong>Sun–Wed,&nbsp;Dec&nbsp;13–16</strong>)</span>
   </li>
 </ul>
+{% endcomment %}
 
 <p class="research-interests-heading"><strong>Research interests</strong></p>
 
